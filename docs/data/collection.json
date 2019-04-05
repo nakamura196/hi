@@ -1,0 +1,28 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/collection.json",
+    "@type": "sc:Collection",
+    "collections": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/『大日本史料』/collection.json",
+            "@type": "sc:Collection",
+            "collections": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/『大日本史料』/1編/collection.json",
+                    "@type": "sc:Collection",
+                    "label": "『大日本史料』・1編",
+                    "manifests": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://nakamura196.github.io/hi/data/『大日本史料』/1編/0001.json",
+                            "@type": "sc:Manifest"
+                        }
+                    ]
+                }
+            ],
+            "label": "『大日本史料』"
+        }
+    ]
+}
