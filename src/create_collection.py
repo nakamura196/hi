@@ -10,30 +10,41 @@ from PIL import Image
 
 result = {}
 
-with open('data/data.csv', 'r') as f:
+with open('data/data_all.csv', 'r') as f:
     reader = csv.reader(f)
     header = next(reader)  # ヘッダーを読み飛ばしたい時
 
     for row in reader:
 
-        print(row)
+        # print(row)
 
         title1 = row[0]
+        id1 = row[1]
 
-        if title1 not in result:
-            result[title1] = {}
+        if id1 not in result:
+            # result[title1] = {}
+            result[id1] = {
+                "title" : title1,
+                "children" : {}
+            }
 
-        tmp = result[title1]
 
-        title2 = row[1]
 
-        if title2 not in tmp:
-            tmp[title2] = {}
+        tmp = result[id1]["children"]
 
-        tmp = tmp[title2]
+        title2 = row[2]
+        id2 = row[3]
 
-        no = row[2]
-        desc = row[3]
+        if id2 not in tmp:
+            tmp[id2] = {
+                "title": title2,
+                "children": {}
+            }
+
+        tmp = tmp[id2]["children"]
+
+        no = row[4]
+        desc = row[5]
 
         if no not in tmp:
             tmp[no] = {
@@ -43,7 +54,7 @@ with open('data/data.csv', 'r') as f:
 
         tmp = tmp[no]
 
-        img = row[4]
+        img = row[6]
 
         tmp["images"].append(img)
 
@@ -60,24 +71,26 @@ collections = []
 collection["collections"] = collections
 
 
-for title1 in result:
+for id1 in result:
 
-    obj1 = result[title1]
+    obj1 = result[id1]["children"]
+    title1 = result[id1]["title"]
 
     collection1 = temp.copy()
     collection1["label"] = title1
-    collection1["@id"] = "https://nakamura196.github.io/hi/data/"+title1+"/collection.json"
+    collection1["@id"] = "https://nakamura196.github.io/hi/data/"+id1+"/collection.json"
     collections.append(collection1)
     collections1 = []
     collection1["collections"] = collections1
 
 
-    for title2 in obj1:
-        obj2 = obj1[title2]
+    for id2 in obj1:
+        obj2 = obj1[id2]["children"]
+        title2 = obj1[id2]["title"]
 
         collection2 = temp.copy()
         collection2["label"] = title1+"・"+title2
-        collection2["@id"] = "https://nakamura196.github.io/hi/data/"+title1+"/"+title2+"/collection.json"
+        collection2["@id"] = "https://nakamura196.github.io/hi/data/"+id1+"/"+id2+"/collection.json"
         collections1.append(collection2)
 
         manifests = []
@@ -86,7 +99,7 @@ for title1 in result:
         for no in obj2:
             obj3 = obj2[no]
 
-            dir1 = "../docs/data/"+title1+"/"+title2
+            dir1 = "../docs/data/"+id1+"/"+id2
 
             file = dir1+"/" + str(no).zfill(4) + ".json"
 
