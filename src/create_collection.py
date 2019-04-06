@@ -110,5 +110,8 @@ for id1 in result:
         f8 = open("../docs/data/" + id1 + "/" + id2 + "/collection.json", 'w')
         json.dump(collection2, f8, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
 
-f2 = open("../docs/data/collection.json", 'w')
-json.dump(collection, f2, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
+    f2 = open("../docs/data/" + id1 + "/collection.json", 'w')
+    json.dump(collection2, f2, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
+
+f1 = open("../docs/data/collection.json", 'w')
+json.dump(collection, f1, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))

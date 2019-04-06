@@ -1,0 +1,176 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/08/01/collection.json",
+    "@type": "sc:Collection",
+    "label": "『大日本維新史料 類纂之部』・井伊家史料",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0001.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・1"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0002.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・2"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0003.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・3"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0004.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・4"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0005.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・5"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0006.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・6"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0007.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・7"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0008.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・8"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0009.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・9"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0010.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・10"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0011.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・11"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0012.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・12"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0013.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・13"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0014.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・14"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0015.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・15"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0016.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・16"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0017.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・17"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0018.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・18"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0019.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・19"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0020.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・20"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0021.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・21"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0022.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・22"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0023.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・23"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0024.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・24"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0025.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・25"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0026.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・26"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0027.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・27"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/08/01/0028.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・28"
+        }
+    ]
+}

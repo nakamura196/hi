@@ -1,0 +1,56 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/07/07/collection.json",
+    "@type": "sc:Collection",
+    "label": "『大日本近世史料』・柳営補任",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/07/0001.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・柳営補任・1"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/07/0002.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・柳営補任・2"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/07/0003.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・柳営補任・3"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/07/0004.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・柳営補任・4"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/07/0005.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・柳営補任・5"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/07/0006.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・柳営補任・6"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/07/0007.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・柳営補任・7"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/07/0008.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・柳営補任・8"
+        }
+    ]
+}
