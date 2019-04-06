@@ -58,8 +58,7 @@
                     "label": "『大日本維新史料 編年之部』・1編・7",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F04%2F0107%2F0001_r25.jpg"
                 }
-            ],
-            "vhint": "use-thumb"
+            ]
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -102,8 +101,7 @@
                     "label": "『大日本維新史料 編年之部』・2編・5",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F04%2F0205%2F0001_r25.jpg"
                 }
-            ],
-            "vhint": "use-thumb"
+            ]
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -160,8 +158,7 @@
                     "label": "『大日本維新史料 編年之部』・3編・7",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F04%2F0307%2F0001_r25.jpg"
                 }
-            ],
-            "vhint": "use-thumb"
+            ]
         }
     ],
     "label": "『大日本維新史料 編年之部』"

@@ -210,8 +210,7 @@
                             "label": "『大日本史料』・1編・別4（補遺）",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0128%2Fsupple%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -429,8 +428,7 @@
                             "label": "『大日本史料』・2編・30",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0230%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -634,8 +632,7 @@
                             "label": "『大日本史料』・3編・28",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0328%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -755,8 +752,7 @@
                             "label": "『大日本史料』・4編・16",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0416%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1009,8 +1005,7 @@
                             "label": "『大日本史料』・5編・35",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0535%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1354,8 +1349,7 @@
                             "label": "『大日本史料』・6編・48",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0648%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1587,8 +1581,7 @@
                             "label": "『大日本史料』・7編・32",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0732%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1904,8 +1897,7 @@
                             "label": "『大日本史料』・8編・42",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0842%2F0001.tif/full/pct:10/0/default_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2102,8 +2094,7 @@
                             "label": "『大日本史料』・9編・28",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0928%2F0001.tif/full/pct:10/0/default_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2307,8 +2298,7 @@
                             "label": "『大日本史料』・10編・28",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F1028%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2512,8 +2502,7 @@
                             "label": "『大日本史料』・11編・別巻２",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F1192%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2941,8 +2930,7 @@
                             "label": "『大日本史料』・12編・60",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F1260%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 }
             ],
             "label": "『大日本史料』"
@@ -3133,8 +3121,7 @@
                             "label": "『大日本古文書』・編年文書・25",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0025%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3198,8 +3185,7 @@
                             "label": "『大日本古文書』・高野山文書・8",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0108%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3214,8 +3200,7 @@
                             "label": "『大日本古文書』・浅野家文書・1",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0201%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3293,8 +3278,7 @@
                             "label": "『大日本古文書』・伊達家文書・10",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0310%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3344,8 +3328,7 @@
                             "label": "『大日本古文書』・石清水文書・6",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0406%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3367,8 +3350,7 @@
                             "label": "『大日本古文書』・相良家文書・2",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0502%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3383,8 +3365,7 @@
                             "label": "『大日本古文書』・観心寺文書・1",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0601%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3399,8 +3380,7 @@
                             "label": "『大日本古文書』・金剛寺文書・1",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0701%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3436,8 +3416,7 @@
                             "label": "『大日本古文書』・毛利家文書・4",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0804%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3466,8 +3445,7 @@
                             "label": "『大日本古文書』・吉川家文書・3",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0903%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3587,8 +3565,7 @@
                             "label": "『大日本古文書』・東寺文書・16",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1016%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3610,8 +3587,7 @@
                             "label": "『大日本古文書』・小早川家文書・2",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1102%2F0001.tif/full/pct:10/0/default_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3640,8 +3616,7 @@
                             "label": "『大日本古文書』・上杉家文書・3",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1203%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3670,8 +3645,7 @@
                             "label": "『大日本古文書』・阿蘇文書・3",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1303%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3686,8 +3660,7 @@
                             "label": "『大日本古文書』・熊谷家・三浦家・平賀家文書・1",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1401%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3702,8 +3675,7 @@
                             "label": "『大日本古文書』・山内首藤家文書・1",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1501%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3739,8 +3711,7 @@
                             "label": "『大日本古文書』・島津家文書・4",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1604%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3846,8 +3817,7 @@
                             "label": "『大日本古文書』・大徳寺文書・14",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1714%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4002,8 +3972,7 @@
                             "label": "『大日本古文書』・東大寺文書・22",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1823%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4116,8 +4085,7 @@
                             "label": "『大日本古文書』・醍醐寺文書・15",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1915%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4160,8 +4128,7 @@
                             "label": "『大日本古文書』・東福寺文書・5",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F2005%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4211,8 +4178,7 @@
                             "label": "『大日本古文書』・蜷川家文書・6",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F2106%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4241,8 +4207,7 @@
                             "label": "『大日本古文書』・益田家文書・3",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F2203%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4614,8 +4579,7 @@
                             "label": "『大日本古文書』・幕末外国関係文書・52",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F9052%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4672,8 +4636,7 @@
                             "label": "『大日本古文書』・幕末外国関係文書付録・7",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F9107%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 }
             ],
             "label": "『大日本古文書』"
@@ -4864,8 +4827,7 @@
                             "label": "『大日本近世史料』・細川家史料・25",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1025%2F0001.tif/full/pct:10/0/default_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4894,8 +4856,7 @@
                             "label": "『大日本近世史料』・上田藩村明細帳・3",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0103%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4938,8 +4899,7 @@
                             "label": "『大日本近世史料』・肥後藩人畜改帳・5",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0205%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4982,8 +4942,7 @@
                             "label": "『大日本近世史料』・小倉藩人畜改帳・5",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0405%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5040,8 +4999,7 @@
                             "label": "『大日本近世史料』・唐通事会所日録・7",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0307%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5154,8 +5112,7 @@
                             "label": "『大日本近世史料』・諸問屋再興調・15",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0515%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5359,8 +5316,7 @@
                             "label": "『大日本近世史料』・市中取締類集・28",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0628%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5452,8 +5408,7 @@
                             "label": "『大日本近世史料』・広橋兼胤公武御用日記・12",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1312%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5475,8 +5430,7 @@
                             "label": "『大日本近世史料』・諸宗末寺帳・2",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0902%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5505,8 +5459,7 @@
                             "label": "『大日本近世史料』・近藤重蔵蝦夷地関係史料・3",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1203%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5556,8 +5509,7 @@
                             "label": "『大日本近世史料』・編脩地誌備用典籍解題・6",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1106%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5691,8 +5643,7 @@
                             "label": "『大日本近世史料』・幕府書物方日記・18",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0818%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5756,8 +5707,7 @@
                             "label": "『大日本近世史料』・柳営補任・8",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0708%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 }
             ],
             "label": "『大日本近世史料』"
@@ -5822,8 +5772,7 @@
                             "label": "『大日本維新史料 編年之部』・1編・7",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F04%2F0107%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5866,8 +5815,7 @@
                             "label": "『大日本維新史料 編年之部』・2編・5",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F04%2F0205%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5924,8 +5872,7 @@
                             "label": "『大日本維新史料 編年之部』・3編・7",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F04%2F0307%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 }
             ],
             "label": "『大日本維新史料 編年之部』"
@@ -6137,8 +6084,7 @@
                             "label": "『大日本維新史料 類纂之部』・井伊家史料・28",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0128%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 }
             ],
             "label": "『大日本維新史料 類纂之部』"
@@ -6266,8 +6212,7 @@
                             "label": "『復古記』・復古記・16",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F11%2F0016%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 }
             ],
             "label": "『復古記』"
@@ -6297,8 +6242,7 @@
                             "label": "『明治史要』・明治史要・2",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F12%2F0002%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 }
             ],
             "label": "『明治史要』"
@@ -6363,8 +6307,7 @@
                             "label": "『維新史』・維新史・7",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F15%2F0007%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 }
             ],
             "label": "『維新史』"
@@ -6394,8 +6337,7 @@
                             "label": "『明治維新史料選集』・明治維新史料選集・2",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F52%2F0002%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 }
             ],
             "label": "『明治維新史料選集』"
@@ -6495,8 +6437,7 @@
                             "label": "『保古飛呂比』・保古飛呂比・12",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F53%2F0012%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 }
             ],
             "label": "『保古飛呂比』"
@@ -6701,8 +6642,7 @@
                             "label": "『日本関係海外史料』・オランダ商館長日記・27",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F58%2F0216%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -6752,8 +6692,7 @@
                             "label": "『日本関係海外史料』・イギリス商館長日記・6",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F58%2F0403%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -6817,8 +6756,7 @@
                             "label": "『日本関係海外史料』・イエズス会日本書翰集・8",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F58%2F0605%2F0001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 }
             ],
             "label": "『日本関係海外史料』"
@@ -6932,12 +6870,12 @@
                             "label": "『日本関係海外史料目録』・日本関係海外史料目録・14",
                             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-001_r25.jpg"
                         }
-                    ],
-                    "vhint": "use-thumb"
+                    ]
                 }
             ],
             "label": "『日本関係海外史料目録』"
         }
     ],
-    "label": "史料集版面ギャラリー（東京大学史料編纂所編）を改変"
+    "label": "史料集版面ギャラリー（東京大学史料編纂所編）を改変",
+    "vhint": "use-thumb"
 }

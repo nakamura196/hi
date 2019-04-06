@@ -7,7 +7,7 @@ import json
 import urllib.request
 
 result = []
-result.append(["title1", "title2", "no", "desc", "img_url"])
+result.append(["title1", "id1", "title2", "id2", "no", "desc", "img_url"])
 
 url = 'http://www.hi.u-tokyo.ac.jp/publication/dip/data/series.json'
 res = urllib.request.urlopen(url)
@@ -16,11 +16,12 @@ data = json.loads(res.read())
 
 dd = []
 
-for obj in data:
+for x in range(len(data)):
+    obj = data[x]
     title1 = obj["title"]
     id1=obj["id"]
 
-    print("*"+str(id1))
+    print("* "+str(x+1)+"/"+str(len(data))+"="+str(id1))
 
     url1 = 'http://www.hi.u-tokyo.ac.jp/publication/dip/data/'+id1+'.json'
 
@@ -30,11 +31,12 @@ for obj in data:
     # json_loads() でPythonオブジェクトに変換
     data1 = json.loads(res1.read())
 
-    for obj1 in data1:
+    for y in range(len(data1)):
+        obj1 = data1[y]
         title2 = obj1["title"]
         id2 = obj1["id"]
 
-        print("**"+str(id1))
+        print("** "+str(y+1)+"/"+str(len(data1))+"="+str(id2))
 
         url2 = 'http://www.hi.u-tokyo.ac.jp/publication/dip/data/'+id1+"-"+id2+'.json'
 
@@ -44,21 +46,22 @@ for obj in data:
         # json_loads() でPythonオブジェクトに変換
         data2 = json.loads(res2.read())
 
-        for obj2 in data2:
+        for z in range(len(data2)):
+            obj2 = data2[z]
             url3 = obj2["url"]
             no = obj2["no"]
             desc = obj2["description"]
 
             url3 = url3 + "?m=all&n=100&p="
 
-            print("***"+str(no))
+            print("*** "+str(z+1)+"/"+str(len(data2))+"="+str(no))
 
             loop_flg = True
             page = 1
 
             while loop_flg:
                 url4 = url3 + str(page)
-                print("****"+str(url4))
+                # print("****"+str(url4))
 
                 page += 1
 
@@ -78,7 +81,7 @@ for obj in data:
                         else:
                             dd.append(img_url)
 
-                            row = [title1, title2, no, desc, img_url]
+                            row = [title1, id1, title2, id2, no, desc, img_url]
                             result.append(row)
 
                 else:
