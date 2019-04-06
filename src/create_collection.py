@@ -65,6 +65,7 @@ temp = {
 collection = temp.copy()
 collection["@id"] = "https://nakamura196.github.io/hi/data/collection.json"
 collection["label"] = "史料集版面ギャラリー"
+collection["vhint"] = "use-thumb"
 collections = []
 collection["collections"] = collections
 
