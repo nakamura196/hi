@@ -1,0 +1,176 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/02/10/collection.json",
+    "@type": "sc:Collection",
+    "label": "『大日本史料』・10編",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0001.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・1"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0002.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・2"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0003.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・3"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0004.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・4"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0005.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・5"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0006.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・6"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0007.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・7"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0008.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・8"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0009.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・9"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0010.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・10"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0011.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・11"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0012.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・12"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0013.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・13"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0014.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・14"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0015.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・15"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0016.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・16"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0017.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・17"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0018.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・18"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0019.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・19"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0020.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・20"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0021.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・21"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0022.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・22"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0023.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・23"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0024.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・24"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0025.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・25"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0026.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・26"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0027.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・27"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/10/0028.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・10編・28"
+        }
+    ]
+}

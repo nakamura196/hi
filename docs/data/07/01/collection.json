@@ -1,0 +1,26 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/07/01/collection.json",
+    "@type": "sc:Collection",
+    "label": "『大日本近世史料』・上田藩村明細帳",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/01/0001.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・上田藩村明細帳・1"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/01/0002.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・上田藩村明細帳・2"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/01/0003.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・上田藩村明細帳・3"
+        }
+    ]
+}

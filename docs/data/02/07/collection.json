@@ -1,0 +1,200 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/02/07/collection.json",
+    "@type": "sc:Collection",
+    "label": "『大日本史料』・7編",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0001.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・1"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0002.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・2"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0003.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・3"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0004.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・4"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0005.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・5"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0006.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・6"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0007.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・7"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0008.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・8"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0009.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・9"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0010.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・10"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0011.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・11"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0012.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・12"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0013.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・13"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0014.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・14"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0015.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・15"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0016.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・16"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0017.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・17"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0018.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・18"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0019.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・19"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0020.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・20"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0021.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・21"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0022.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・22"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0023.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・23"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0024.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・24"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0025.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・25"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0026.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・26"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0027.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・27"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0028.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・28"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0029.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・29"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0030.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・30"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0031.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・31"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/02/07/0032.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本史料』・7編・32"
+        }
+    ]
+}

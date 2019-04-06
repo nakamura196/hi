@@ -1,0 +1,116 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/07/08/collection.json",
+    "@type": "sc:Collection",
+    "label": "『大日本近世史料』・幕府書物方日記",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/08/0001.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・幕府書物方日記・1"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/08/0002.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・幕府書物方日記・2"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/08/0003.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・幕府書物方日記・3"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/08/0004.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・幕府書物方日記・4"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/08/0005.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・幕府書物方日記・5"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/08/0006.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・幕府書物方日記・6"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/08/0007.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・幕府書物方日記・7"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/08/0008.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・幕府書物方日記・8"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/08/0009.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・幕府書物方日記・9"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/08/0010.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・幕府書物方日記・10"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/08/0011.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・幕府書物方日記・11"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/08/0012.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・幕府書物方日記・12"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/08/0013.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・幕府書物方日記・13"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/08/0014.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・幕府書物方日記・14"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/08/0015.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・幕府書物方日記・15"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/08/0016.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・幕府書物方日記・16"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/08/0017.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・幕府書物方日記・17"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/08/0018.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・幕府書物方日記・18"
+        }
+    ]
+}

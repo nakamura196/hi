@@ -1,0 +1,20 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/07/09/collection.json",
+    "@type": "sc:Collection",
+    "label": "『大日本近世史料』・諸宗末寺帳",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/09/0001.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・諸宗末寺帳・1"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/09/0002.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・諸宗末寺帳・2"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/07/05/collection.json",
+    "@type": "sc:Collection",
+    "label": "『大日本近世史料』・諸問屋再興調",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/05/0001.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・諸問屋再興調・1"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/05/0002.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・諸問屋再興調・2"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/05/0003.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・諸問屋再興調・3"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/05/0004.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・諸問屋再興調・4"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/05/0005.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・諸問屋再興調・5"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/05/0006.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・諸問屋再興調・6"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/05/0007.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・諸問屋再興調・7"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/05/0008.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・諸問屋再興調・8"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/05/0009.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・諸問屋再興調・9"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/05/0010.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・諸問屋再興調・10"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/05/0011.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・諸問屋再興調・11"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/05/0012.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・諸問屋再興調・12"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/05/0013.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・諸問屋再興調・13"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/05/0014.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・諸問屋再興調・14"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/05/0015.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・諸問屋再興調・15"
+        }
+    ]
+}

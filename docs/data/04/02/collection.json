@@ -1,0 +1,38 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/04/02/collection.json",
+    "@type": "sc:Collection",
+    "label": "『大日本維新史料 編年之部』・2編",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/04/02/0001.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 編年之部』・2編・1"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/04/02/0002.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 編年之部』・2編・2"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/04/02/0003.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 編年之部』・2編・3"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/04/02/0004.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 編年之部』・2編・4"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/04/02/0005.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本維新史料 編年之部』・2編・5"
+        }
+    ]
+}

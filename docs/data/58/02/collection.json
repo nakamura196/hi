@@ -1,0 +1,44 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/58/02/collection.json",
+    "@type": "sc:Collection",
+    "label": "『日本関係海外史料』・イギリス商館長日記",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/58/02/0001.json",
+            "@type": "sc:Manifest",
+            "label": "『日本関係海外史料』・イギリス商館長日記・1"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/58/02/0002.json",
+            "@type": "sc:Manifest",
+            "label": "『日本関係海外史料』・イギリス商館長日記・2"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/58/02/0003.json",
+            "@type": "sc:Manifest",
+            "label": "『日本関係海外史料』・イギリス商館長日記・3"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/58/02/0004.json",
+            "@type": "sc:Manifest",
+            "label": "『日本関係海外史料』・イギリス商館長日記・4"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/58/02/0005.json",
+            "@type": "sc:Manifest",
+            "label": "『日本関係海外史料』・イギリス商館長日記・5"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/58/02/0006.json",
+            "@type": "sc:Manifest",
+            "label": "『日本関係海外史料』・イギリス商館長日記・6"
+        }
+    ]
+}

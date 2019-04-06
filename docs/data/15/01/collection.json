@@ -1,0 +1,50 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/15/01/collection.json",
+    "@type": "sc:Collection",
+    "label": "『維新史』・維新史",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/15/01/0001.json",
+            "@type": "sc:Manifest",
+            "label": "『維新史』・維新史・1"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/15/01/0002.json",
+            "@type": "sc:Manifest",
+            "label": "『維新史』・維新史・2"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/15/01/0003.json",
+            "@type": "sc:Manifest",
+            "label": "『維新史』・維新史・3"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/15/01/0004.json",
+            "@type": "sc:Manifest",
+            "label": "『維新史』・維新史・4"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/15/01/0005.json",
+            "@type": "sc:Manifest",
+            "label": "『維新史』・維新史・5"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/15/01/0006.json",
+            "@type": "sc:Manifest",
+            "label": "『維新史』・維新史・6"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/15/01/0007.json",
+            "@type": "sc:Manifest",
+            "label": "『維新史』・維新史・7"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/07/13/collection.json",
+    "@type": "sc:Collection",
+    "label": "『大日本近世史料』・広橋兼胤公武御用日記",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/13/0001.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・1"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/13/0002.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・2"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/13/0003.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・3"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/13/0004.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・4"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/13/0005.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・5"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/13/0006.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・6"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/13/0007.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・7"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/13/0008.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・8"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/13/0009.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・9"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/13/0010.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・10"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/13/0011.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・11"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/13/0012.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・12"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/11/01/collection.json",
+    "@type": "sc:Collection",
+    "label": "『復古記』・復古記",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/11/01/0001.json",
+            "@type": "sc:Manifest",
+            "label": "『復古記』・復古記・1"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/11/01/0002.json",
+            "@type": "sc:Manifest",
+            "label": "『復古記』・復古記・2"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/11/01/0003.json",
+            "@type": "sc:Manifest",
+            "label": "『復古記』・復古記・3"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/11/01/0004.json",
+            "@type": "sc:Manifest",
+            "label": "『復古記』・復古記・4"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/11/01/0005.json",
+            "@type": "sc:Manifest",
+            "label": "『復古記』・復古記・5"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/11/01/0006.json",
+            "@type": "sc:Manifest",
+            "label": "『復古記』・復古記・6"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/11/01/0007.json",
+            "@type": "sc:Manifest",
+            "label": "『復古記』・復古記・7"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/11/01/0008.json",
+            "@type": "sc:Manifest",
+            "label": "『復古記』・復古記・8"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/11/01/0009.json",
+            "@type": "sc:Manifest",
+            "label": "『復古記』・復古記・9"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/11/01/0010.json",
+            "@type": "sc:Manifest",
+            "label": "『復古記』・復古記・10"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/11/01/0011.json",
+            "@type": "sc:Manifest",
+            "label": "『復古記』・復古記・11"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/11/01/0012.json",
+            "@type": "sc:Manifest",
+            "label": "『復古記』・復古記・12"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/11/01/0013.json",
+            "@type": "sc:Manifest",
+            "label": "『復古記』・復古記・13"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/11/01/0014.json",
+            "@type": "sc:Manifest",
+            "label": "『復古記』・復古記・14"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/11/01/0015.json",
+            "@type": "sc:Manifest",
+            "label": "『復古記』・復古記・15"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/11/01/0016.json",
+            "@type": "sc:Manifest",
+            "label": "『復古記』・復古記・16"
+        }
+    ]
+}

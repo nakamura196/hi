@@ -1,0 +1,98 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/05/19/collection.json",
+    "@type": "sc:Collection",
+    "label": "『大日本古文書』・醍醐寺文書",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/19/0001.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・醍醐寺文書・1"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/19/0002.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・醍醐寺文書・2"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/19/0003.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・醍醐寺文書・3"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/19/0004.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・醍醐寺文書・4"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/19/0005.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・醍醐寺文書・5"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/19/0006.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・醍醐寺文書・6"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/19/0007.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・醍醐寺文書・7"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/19/0008.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・醍醐寺文書・8"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/19/0009.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・醍醐寺文書・9"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/19/0010.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・醍醐寺文書・10"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/19/0011.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・醍醐寺文書・11"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/19/0012.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・醍醐寺文書・12"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/19/0013.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・醍醐寺文書・13"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/19/0014.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・醍醐寺文書・14"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/19/0015.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・醍醐寺文書・15"
+        }
+    ]
+}

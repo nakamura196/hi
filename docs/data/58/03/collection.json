@@ -1,0 +1,56 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/58/03/collection.json",
+    "@type": "sc:Collection",
+    "label": "『日本関係海外史料』・イエズス会日本書翰集",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/58/03/0001.json",
+            "@type": "sc:Manifest",
+            "label": "『日本関係海外史料』・イエズス会日本書翰集・1"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/58/03/0002.json",
+            "@type": "sc:Manifest",
+            "label": "『日本関係海外史料』・イエズス会日本書翰集・2"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/58/03/0003.json",
+            "@type": "sc:Manifest",
+            "label": "『日本関係海外史料』・イエズス会日本書翰集・3"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/58/03/0004.json",
+            "@type": "sc:Manifest",
+            "label": "『日本関係海外史料』・イエズス会日本書翰集・4"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/58/03/0005.json",
+            "@type": "sc:Manifest",
+            "label": "『日本関係海外史料』・イエズス会日本書翰集・5"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/58/03/0006.json",
+            "@type": "sc:Manifest",
+            "label": "『日本関係海外史料』・イエズス会日本書翰集・6"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/58/03/0007.json",
+            "@type": "sc:Manifest",
+            "label": "『日本関係海外史料』・イエズス会日本書翰集・7"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/58/03/0008.json",
+            "@type": "sc:Manifest",
+            "label": "『日本関係海外史料』・イエズス会日本書翰集・8"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/05/09/collection.json",
+    "@type": "sc:Collection",
+    "label": "『大日本古文書』・吉川家文書",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/09/0001.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・吉川家文書・1"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/09/0002.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・吉川家文書・2"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/09/0003.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・吉川家文書・3"
+        }
+    ]
+}

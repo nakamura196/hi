@@ -1,0 +1,176 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/07/06/collection.json",
+    "@type": "sc:Collection",
+    "label": "『大日本近世史料』・市中取締類集",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0001.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・1"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0002.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・2"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0003.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・3"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0004.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・4"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0005.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・5"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0006.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・6"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0007.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・7"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0008.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・8"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0009.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・9"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0010.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・10"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0011.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・11"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0012.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・12"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0013.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・13"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0014.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・14"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0015.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・15"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0016.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・16"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0017.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・17"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0018.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・18"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0019.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・19"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0020.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・20"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0021.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・21"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0022.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・22"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0023.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・23"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0024.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・24"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0025.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・25"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0026.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・26"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0027.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・27"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0028.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本近世史料』・市中取締類集・28"
+        }
+    ]
+}
