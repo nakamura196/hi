@@ -121,7 +121,8 @@
                     "label": "『復古記』・復古記・16",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F11%2F0016%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         }
     ],
     "label": "『復古記』"

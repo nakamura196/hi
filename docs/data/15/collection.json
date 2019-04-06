@@ -58,7 +58,8 @@
                     "label": "『維新史』・維新史・7",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F15%2F0007%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         }
     ],
     "label": "『維新史』"

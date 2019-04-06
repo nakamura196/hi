@@ -65,7 +65,6 @@ temp = {
 collection = temp.copy()
 collection["@id"] = "https://nakamura196.github.io/hi/data/collection.json"
 collection["label"] = "史料集版面ギャラリー"
-collection["vhint"] = "use-thumb"
 collections = []
 collection["collections"] = collections
 
@@ -88,6 +87,7 @@ for id1 in result:
         collection2 = temp.copy()
         collection2["label"] = title1 + "・" + title2
         collection2["@id"] = "https://nakamura196.github.io/hi/data/" + id1 + "/" + id2 + "/collection.json"
+        collection2["vhint"] = "use-thumb"
         collections1.append(collection2)
 
         manifests = []

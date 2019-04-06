@@ -198,7 +198,8 @@
                     "label": "『日本関係海外史料』・オランダ商館長日記・27",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F58%2F0216%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -248,7 +249,8 @@
                     "label": "『日本関係海外史料』・イギリス商館長日記・6",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F58%2F0403%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -312,7 +314,8 @@
                     "label": "『日本関係海外史料』・イエズス会日本書翰集・8",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F58%2F0605%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         }
     ],
     "label": "『日本関係海外史料』"

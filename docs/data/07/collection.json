@@ -184,7 +184,8 @@
                     "label": "『大日本近世史料』・細川家史料・25",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1025%2F0001.tif/full/pct:10/0/default_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -213,7 +214,8 @@
                     "label": "『大日本近世史料』・上田藩村明細帳・3",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0103%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -256,7 +258,8 @@
                     "label": "『大日本近世史料』・肥後藩人畜改帳・5",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0205%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -299,7 +302,8 @@
                     "label": "『大日本近世史料』・小倉藩人畜改帳・5",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0405%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -356,7 +360,8 @@
                     "label": "『大日本近世史料』・唐通事会所日録・7",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0307%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -469,7 +474,8 @@
                     "label": "『大日本近世史料』・諸問屋再興調・15",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0515%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -673,7 +679,8 @@
                     "label": "『大日本近世史料』・市中取締類集・28",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0628%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -765,7 +772,8 @@
                     "label": "『大日本近世史料』・広橋兼胤公武御用日記・12",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1312%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -787,7 +795,8 @@
                     "label": "『大日本近世史料』・諸宗末寺帳・2",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0902%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -816,7 +825,8 @@
                     "label": "『大日本近世史料』・近藤重蔵蝦夷地関係史料・3",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1203%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -866,7 +876,8 @@
                     "label": "『大日本近世史料』・編脩地誌備用典籍解題・6",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1106%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1000,7 +1011,8 @@
                     "label": "『大日本近世史料』・幕府書物方日記・18",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0818%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1064,7 +1076,8 @@
                     "label": "『大日本近世史料』・柳営補任・8",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0708%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         }
     ],
     "label": "『大日本近世史料』"

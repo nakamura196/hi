@@ -205,7 +205,8 @@
                     "label": "『大日本史料』・1編・別4（補遺）",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0128%2Fsupple%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -423,7 +424,8 @@
                     "label": "『大日本史料』・2編・30",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0230%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -627,7 +629,8 @@
                     "label": "『大日本史料』・3編・28",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0328%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -747,7 +750,8 @@
                     "label": "『大日本史料』・4編・16",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0416%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1000,7 +1004,8 @@
                     "label": "『大日本史料』・5編・35",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0535%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1344,7 +1349,8 @@
                     "label": "『大日本史料』・6編・48",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0648%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1576,7 +1582,8 @@
                     "label": "『大日本史料』・7編・32",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0732%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1892,7 +1899,8 @@
                     "label": "『大日本史料』・8編・42",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0842%2F0001.tif/full/pct:10/0/default_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2089,7 +2097,8 @@
                     "label": "『大日本史料』・9編・28",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0928%2F0001.tif/full/pct:10/0/default_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2293,7 +2302,8 @@
                     "label": "『大日本史料』・10編・28",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F1028%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2497,7 +2507,8 @@
                     "label": "『大日本史料』・11編・別巻２",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F1192%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2925,7 +2936,8 @@
                     "label": "『大日本史料』・12編・60",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F1260%2F0001_r25.jpg"
                 }
-            ]
+            ],
+            "vhint": "use-thumb"
         }
     ],
     "label": "『大日本史料』"
