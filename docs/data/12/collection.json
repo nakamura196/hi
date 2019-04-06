@@ -1,24 +1,24 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://hi-iiif.netlify.com/data/12/collection.json",
+    "@id": "https://nakamura196.github.io/hi/data/12/collection.json",
     "@type": "sc:Collection",
     "collections": [
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://hi-iiif.netlify.com/data/12/01/collection.json",
+            "@id": "https://nakamura196.github.io/hi/data/12/01/collection.json",
             "@type": "sc:Collection",
             "label": "『明治史要』・明治史要",
             "manifests": [
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
-                    "@id": "https://hi-iiif.netlify.com/data/12/01/0001.json",
+                    "@id": "https://nakamura196.github.io/hi/data/12/01/0001.json",
                     "@type": "sc:Manifest",
                     "label": "『明治史要』・明治史要・1",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F12%2F0001%2F0001_r25.jpg"
                 },
                 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
-                    "@id": "https://hi-iiif.netlify.com/data/12/01/0002.json",
+                    "@id": "https://nakamura196.github.io/hi/data/12/01/0002.json",
                     "@type": "sc:Manifest",
                     "label": "『明治史要』・明治史要・2",
                     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F12%2F0002%2F0001_r25.jpg"

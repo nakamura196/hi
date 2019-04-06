@@ -1,61 +1,61 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://hi-iiif.netlify.com/data/07/07/collection.json",
+    "@id": "https://nakamura196.github.io/hi/data/07/07/collection.json",
     "@type": "sc:Collection",
     "label": "『大日本近世史料』・柳営補任",
     "manifests": [
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://hi-iiif.netlify.com/data/07/07/0001.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/07/0001.json",
             "@type": "sc:Manifest",
             "label": "『大日本近世史料』・柳営補任・1",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0701%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://hi-iiif.netlify.com/data/07/07/0002.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/07/0002.json",
             "@type": "sc:Manifest",
             "label": "『大日本近世史料』・柳営補任・2",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0702%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://hi-iiif.netlify.com/data/07/07/0003.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/07/0003.json",
             "@type": "sc:Manifest",
             "label": "『大日本近世史料』・柳営補任・3",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0703%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://hi-iiif.netlify.com/data/07/07/0004.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/07/0004.json",
             "@type": "sc:Manifest",
             "label": "『大日本近世史料』・柳営補任・4",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0704%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://hi-iiif.netlify.com/data/07/07/0005.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/07/0005.json",
             "@type": "sc:Manifest",
             "label": "『大日本近世史料』・柳営補任・5",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0705%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://hi-iiif.netlify.com/data/07/07/0006.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/07/0006.json",
             "@type": "sc:Manifest",
             "label": "『大日本近世史料』・柳営補任・6",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0706%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://hi-iiif.netlify.com/data/07/07/0007.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/07/0007.json",
             "@type": "sc:Manifest",
             "label": "『大日本近世史料』・柳営補任・7",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0707%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://hi-iiif.netlify.com/data/07/07/0008.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/07/0008.json",
             "@type": "sc:Manifest",
             "label": "『大日本近世史料』・柳営補任・8",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0708%2F0001_r25.jpg"

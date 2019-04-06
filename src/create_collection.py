@@ -63,7 +63,7 @@ temp = {
 }
 
 collection = temp.copy()
-collection["@id"] = "https://hi-iiif.netlify.com/data/collection.json"
+collection["@id"] = "https://nakamura196.github.io/hi/data/collection.json"
 collection["label"] = "史料集版面ギャラリー（東京大学史料編纂所編）を改変"
 collections = []
 collection["collections"] = collections
@@ -75,7 +75,7 @@ for id1 in result:
 
     collection1 = temp.copy()
     collection1["label"] = title1
-    collection1["@id"] = "https://hi-iiif.netlify.com/data/" + id1 + "/collection.json"
+    collection1["@id"] = "https://nakamura196.github.io/hi/data/" + id1 + "/collection.json"
     collections.append(collection1)
     collections1 = []
     collection1["collections"] = collections1
@@ -86,7 +86,7 @@ for id1 in result:
 
         collection2 = temp.copy()
         collection2["label"] = title1 + "・" + title2
-        collection2["@id"] = "https://hi-iiif.netlify.com/data/" + id1 + "/" + id2 + "/collection.json"
+        collection2["@id"] = "https://nakamura196.github.io/hi/data/" + id1 + "/" + id2 + "/collection.json"
         collection2["vhint"] = "use-thumb"
         collections1.append(collection2)
 
@@ -100,7 +100,7 @@ for id1 in result:
 
             file = dir1 + "/" + str(no).zfill(4) + ".json"
 
-            manifest = "https://hi-iiif.netlify.com/" + file.replace("../docs/", "")
+            manifest = "https://nakamura196.github.io/hi/" + file.replace("../docs/", "")
 
             m = temp.copy()
             m["@id"] = manifest
