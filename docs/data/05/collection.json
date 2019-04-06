@@ -1,50 +1,1492 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://nakamura196.github.io/hi/data/05/91/collection.json",
+    "@id": "https://nakamura196.github.io/hi/data/05/collection.json",
     "@type": "sc:Collection",
-    "label": "『大日本古文書』・幕末外国関係文書付録",
-    "manifests": [
+    "collections": [
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/91/0001.json",
-            "@type": "sc:Manifest",
-            "label": "『大日本古文書』・幕末外国関係文書付録・1"
+            "@id": "https://nakamura196.github.io/hi/data/05/00/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・編年文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・4"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・5"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0006.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・6"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0007.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・7"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0008.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・8"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0009.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・9"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0010.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・10"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0011.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・11"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0012.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・12"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0013.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・13"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0014.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・14"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0015.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・15"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0016.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・16"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0017.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・17"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0018.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・18"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0019.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・19"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0020.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・20"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0021.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・21"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0022.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・22"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0023.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・23"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0024.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・24"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/00/0025.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・編年文書・25"
+                }
+            ]
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/91/0002.json",
-            "@type": "sc:Manifest",
-            "label": "『大日本古文書』・幕末外国関係文書付録・2"
+            "@id": "https://nakamura196.github.io/hi/data/05/01/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・高野山文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/01/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・高野山文書・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/01/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・高野山文書・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/01/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・高野山文書・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/01/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・高野山文書・4"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/01/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・高野山文書・5"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/01/0006.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・高野山文書・6"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/01/0007.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・高野山文書・7"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/01/0008.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・高野山文書・8"
+                }
+            ]
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/91/0003.json",
-            "@type": "sc:Manifest",
-            "label": "『大日本古文書』・幕末外国関係文書付録・3"
+            "@id": "https://nakamura196.github.io/hi/data/05/02/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・浅野家文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/02/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・浅野家文書・1"
+                }
+            ]
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/91/0004.json",
-            "@type": "sc:Manifest",
-            "label": "『大日本古文書』・幕末外国関係文書付録・4"
+            "@id": "https://nakamura196.github.io/hi/data/05/03/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・伊達家文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/03/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・伊達家文書・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/03/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・伊達家文書・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/03/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・伊達家文書・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/03/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・伊達家文書・4"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/03/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・伊達家文書・5"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/03/0006.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・伊達家文書・6"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/03/0007.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・伊達家文書・7"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/03/0008.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・伊達家文書・8"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/03/0009.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・伊達家文書・9"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/03/0010.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・伊達家文書・10"
+                }
+            ]
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/91/0005.json",
-            "@type": "sc:Manifest",
-            "label": "『大日本古文書』・幕末外国関係文書付録・5"
+            "@id": "https://nakamura196.github.io/hi/data/05/04/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・石清水文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/04/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・石清水文書・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/04/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・石清水文書・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/04/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・石清水文書・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/04/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・石清水文書・4"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/04/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・石清水文書・5"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/04/0006.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・石清水文書・6"
+                }
+            ]
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/91/0006.json",
-            "@type": "sc:Manifest",
-            "label": "『大日本古文書』・幕末外国関係文書付録・6"
+            "@id": "https://nakamura196.github.io/hi/data/05/05/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・相良家文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/05/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・相良家文書・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/05/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・相良家文書・2"
+                }
+            ]
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/91/0007.json",
-            "@type": "sc:Manifest",
-            "label": "『大日本古文書』・幕末外国関係文書付録・7"
+            "@id": "https://nakamura196.github.io/hi/data/05/06/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・観心寺文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/06/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・観心寺文書・1"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/07/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・金剛寺文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/07/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・金剛寺文書・1"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/08/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・毛利家文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/08/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・毛利家文書・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/08/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・毛利家文書・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/08/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・毛利家文書・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/08/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・毛利家文書・4"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/09/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・吉川家文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/09/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・吉川家文書・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/09/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・吉川家文書・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/09/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・吉川家文書・3"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/10/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・東寺文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/10/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東寺文書・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/10/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東寺文書・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/10/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東寺文書・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/10/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東寺文書・4"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/10/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東寺文書・5"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/10/0006.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東寺文書・6"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/10/0007.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東寺文書・7"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/10/0008.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東寺文書・8"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/10/0009.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東寺文書・9"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/10/0010.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東寺文書・10"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/10/0011.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東寺文書・11"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/10/0012.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東寺文書・12"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/10/0013.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東寺文書・13"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/10/0014.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東寺文書・14"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/10/0015.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東寺文書・15"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/10/0016.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東寺文書・16"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/11/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・小早川家文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/11/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・小早川家文書・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/11/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・小早川家文書・2"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/12/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・上杉家文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/12/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・上杉家文書・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/12/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・上杉家文書・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/12/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・上杉家文書・3"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/13/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・阿蘇文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/13/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・阿蘇文書・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/13/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・阿蘇文書・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/13/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・阿蘇文書・3"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/14/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・熊谷家・三浦家・平賀家文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/14/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・熊谷家・三浦家・平賀家文書・1"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/15/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・山内首藤家文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/15/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・山内首藤家文書・1"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/16/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・島津家文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/16/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・島津家文書・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/16/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・島津家文書・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/16/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・島津家文書・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/16/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・島津家文書・4"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/17/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・大徳寺文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/17/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・大徳寺文書・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/17/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・大徳寺文書・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/17/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・大徳寺文書・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/17/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・大徳寺文書・4"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/17/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・大徳寺文書・5"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/17/0006.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・大徳寺文書・6"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/17/0007.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・大徳寺文書・7"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/17/0008.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・大徳寺文書・8"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/17/0009.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・大徳寺文書・9"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/17/0010.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・大徳寺文書・10"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/17/0011.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・大徳寺文書・11"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/17/0012.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・大徳寺文書・12"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/17/0013.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・大徳寺文書・13"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/17/0014.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・大徳寺文書・14"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/18/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・東大寺文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/18/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東大寺文書・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/18/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東大寺文書・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/18/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東大寺文書・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/18/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東大寺文書・5"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/18/0006.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東大寺文書・6"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/18/0007.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東大寺文書・7"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/18/0008.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東大寺文書・8"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/18/0009.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東大寺文書・9"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/18/0010.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東大寺文書・10"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/18/0011.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東大寺文書・11"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/18/0012.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東大寺文書・12"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/18/0013.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東大寺文書・13"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/18/0014.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東大寺文書・14"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/18/0015.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東大寺文書・15"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/18/0016.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東大寺文書・16"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/18/0017.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東大寺文書・17"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/18/0018.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東大寺文書・18"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/18/0019.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東大寺文書・19"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/18/0020.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東大寺文書・20"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/18/0021.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東大寺文書・21"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/18/0022.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東大寺文書・22"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/19/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・醍醐寺文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/19/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・醍醐寺文書・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/19/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・醍醐寺文書・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/19/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・醍醐寺文書・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/19/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・醍醐寺文書・4"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/19/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・醍醐寺文書・5"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/19/0006.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・醍醐寺文書・6"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/19/0007.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・醍醐寺文書・7"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/19/0008.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・醍醐寺文書・8"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/19/0009.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・醍醐寺文書・9"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/19/0010.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・醍醐寺文書・10"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/19/0011.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・醍醐寺文書・11"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/19/0012.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・醍醐寺文書・12"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/19/0013.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・醍醐寺文書・13"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/19/0014.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・醍醐寺文書・14"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/19/0015.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・醍醐寺文書・15"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/20/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・東福寺文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/20/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東福寺文書・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/20/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東福寺文書・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/20/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東福寺文書・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/20/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東福寺文書・4"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/20/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・東福寺文書・5"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/21/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・蜷川家文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/21/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・蜷川家文書・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/21/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・蜷川家文書・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/21/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・蜷川家文書・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/21/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・蜷川家文書・4"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/21/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・蜷川家文書・5"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/21/0006.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・蜷川家文書・6"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/22/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・益田家文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/22/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・益田家文書・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/22/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・益田家文書・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/22/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・益田家文書・3"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/90/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・幕末外国関係文書",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・4"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・5"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0006.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・6"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0007.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・7"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0008.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・8"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0009.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・9"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0010.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・10"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0011.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・11"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0012.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・12"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0013.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・13"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0014.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・14"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0015.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・15"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0016.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・16"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0017.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・17"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0018.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・18"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0019.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・19"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0020.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・20"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0021.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・21"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0022.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・22"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0023.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・23"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0024.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・24"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0025.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・25"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0026.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・26"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0027.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・27"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0028.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・28"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0029.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・29"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0030.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・30"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0031.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・31"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0032.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・32"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0033.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・33"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0034.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・34"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0035.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・35"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0036.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・36"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0037.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・37"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0038.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・38"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0039.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・39"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0040.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・40"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0041.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・41"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0042.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・42"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0043.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・43"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0044.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・44"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0045.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・45"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0046.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・46"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0047.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・47"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0048.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・48"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0049.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・49"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0050.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・50"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0051.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・51"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/90/0052.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書・52"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/91/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本古文書』・幕末外国関係文書付録",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/91/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書付録・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/91/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書付録・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/91/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書付録・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/91/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書付録・4"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/91/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書付録・5"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/91/0006.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書付録・6"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/05/91/0007.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本古文書』・幕末外国関係文書付録・7"
+                }
+            ]
         }
-    ]
+    ],
+    "label": "『大日本古文書』"
 }

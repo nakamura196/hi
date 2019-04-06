@@ -1,92 +1,100 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://nakamura196.github.io/hi/data/29/01/collection.json",
+    "@id": "https://nakamura196.github.io/hi/data/29/collection.json",
     "@type": "sc:Collection",
-    "label": "『日本関係海外史料目録』・日本関係海外史料目録",
-    "manifests": [
+    "collections": [
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/29/01/0001.json",
-            "@type": "sc:Manifest",
-            "label": "『日本関係海外史料目録』・日本関係海外史料目録・1"
-        },
-        {
-            "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/29/01/0002.json",
-            "@type": "sc:Manifest",
-            "label": "『日本関係海外史料目録』・日本関係海外史料目録・2"
-        },
-        {
-            "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/29/01/0003.json",
-            "@type": "sc:Manifest",
-            "label": "『日本関係海外史料目録』・日本関係海外史料目録・3"
-        },
-        {
-            "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/29/01/0004.json",
-            "@type": "sc:Manifest",
-            "label": "『日本関係海外史料目録』・日本関係海外史料目録・4"
-        },
-        {
-            "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/29/01/0005.json",
-            "@type": "sc:Manifest",
-            "label": "『日本関係海外史料目録』・日本関係海外史料目録・5"
-        },
-        {
-            "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/29/01/0006.json",
-            "@type": "sc:Manifest",
-            "label": "『日本関係海外史料目録』・日本関係海外史料目録・6"
-        },
-        {
-            "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/29/01/0007.json",
-            "@type": "sc:Manifest",
-            "label": "『日本関係海外史料目録』・日本関係海外史料目録・7"
-        },
-        {
-            "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/29/01/0008.json",
-            "@type": "sc:Manifest",
-            "label": "『日本関係海外史料目録』・日本関係海外史料目録・8"
-        },
-        {
-            "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/29/01/0009.json",
-            "@type": "sc:Manifest",
-            "label": "『日本関係海外史料目録』・日本関係海外史料目録・9"
-        },
-        {
-            "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/29/01/0010.json",
-            "@type": "sc:Manifest",
-            "label": "『日本関係海外史料目録』・日本関係海外史料目録・10"
-        },
-        {
-            "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/29/01/0011.json",
-            "@type": "sc:Manifest",
-            "label": "『日本関係海外史料目録』・日本関係海外史料目録・11"
-        },
-        {
-            "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/29/01/0012.json",
-            "@type": "sc:Manifest",
-            "label": "『日本関係海外史料目録』・日本関係海外史料目録・12"
-        },
-        {
-            "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/29/01/0013.json",
-            "@type": "sc:Manifest",
-            "label": "『日本関係海外史料目録』・日本関係海外史料目録・13"
-        },
-        {
-            "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/29/01/0014.json",
-            "@type": "sc:Manifest",
-            "label": "『日本関係海外史料目録』・日本関係海外史料目録・14"
+            "@id": "https://nakamura196.github.io/hi/data/29/01/collection.json",
+            "@type": "sc:Collection",
+            "label": "『日本関係海外史料目録』・日本関係海外史料目録",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/29/01/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『日本関係海外史料目録』・日本関係海外史料目録・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/29/01/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『日本関係海外史料目録』・日本関係海外史料目録・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/29/01/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『日本関係海外史料目録』・日本関係海外史料目録・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/29/01/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『日本関係海外史料目録』・日本関係海外史料目録・4"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/29/01/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『日本関係海外史料目録』・日本関係海外史料目録・5"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/29/01/0006.json",
+                    "@type": "sc:Manifest",
+                    "label": "『日本関係海外史料目録』・日本関係海外史料目録・6"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/29/01/0007.json",
+                    "@type": "sc:Manifest",
+                    "label": "『日本関係海外史料目録』・日本関係海外史料目録・7"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/29/01/0008.json",
+                    "@type": "sc:Manifest",
+                    "label": "『日本関係海外史料目録』・日本関係海外史料目録・8"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/29/01/0009.json",
+                    "@type": "sc:Manifest",
+                    "label": "『日本関係海外史料目録』・日本関係海外史料目録・9"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/29/01/0010.json",
+                    "@type": "sc:Manifest",
+                    "label": "『日本関係海外史料目録』・日本関係海外史料目録・10"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/29/01/0011.json",
+                    "@type": "sc:Manifest",
+                    "label": "『日本関係海外史料目録』・日本関係海外史料目録・11"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/29/01/0012.json",
+                    "@type": "sc:Manifest",
+                    "label": "『日本関係海外史料目録』・日本関係海外史料目録・12"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/29/01/0013.json",
+                    "@type": "sc:Manifest",
+                    "label": "『日本関係海外史料目録』・日本関係海外史料目録・13"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/29/01/0014.json",
+                    "@type": "sc:Manifest",
+                    "label": "『日本関係海外史料目録』・日本関係海外史料目録・14"
+                }
+            ]
         }
-    ]
+    ],
+    "label": "『日本関係海外史料目録』"
 }

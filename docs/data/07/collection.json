@@ -1,56 +1,934 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://nakamura196.github.io/hi/data/07/07/collection.json",
+    "@id": "https://nakamura196.github.io/hi/data/07/collection.json",
     "@type": "sc:Collection",
-    "label": "『大日本近世史料』・柳営補任",
-    "manifests": [
+    "collections": [
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/07/07/0001.json",
-            "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・柳営補任・1"
+            "@id": "https://nakamura196.github.io/hi/data/07/10/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本近世史料』・細川家史料",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・4"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・5"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0006.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・6"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0007.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・7"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0008.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・8"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0009.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・9"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0010.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・10"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0011.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・11"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0012.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・12"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0013.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・13"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0014.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・14"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0015.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・15"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0016.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・16"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0017.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・17"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0018.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・18"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0019.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・19"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0020.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・20"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0021.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・21"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0022.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・22"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0023.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・23"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0024.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・24"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/10/0025.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・細川家史料・25"
+                }
+            ]
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/07/07/0002.json",
-            "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・柳営補任・2"
+            "@id": "https://nakamura196.github.io/hi/data/07/01/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本近世史料』・上田藩村明細帳",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/01/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・上田藩村明細帳・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/01/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・上田藩村明細帳・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/01/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・上田藩村明細帳・3"
+                }
+            ]
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/07/07/0003.json",
-            "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・柳営補任・3"
+            "@id": "https://nakamura196.github.io/hi/data/07/02/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本近世史料』・肥後藩人畜改帳",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/02/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・肥後藩人畜改帳・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/02/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・肥後藩人畜改帳・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/02/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・肥後藩人畜改帳・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/02/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・肥後藩人畜改帳・4"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/02/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・肥後藩人畜改帳・5"
+                }
+            ]
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/07/07/0004.json",
-            "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・柳営補任・4"
+            "@id": "https://nakamura196.github.io/hi/data/07/04/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本近世史料』・小倉藩人畜改帳",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/04/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・小倉藩人畜改帳・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/04/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・小倉藩人畜改帳・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/04/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・小倉藩人畜改帳・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/04/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・小倉藩人畜改帳・4"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/04/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・小倉藩人畜改帳・5"
+                }
+            ]
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/07/07/0005.json",
-            "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・柳営補任・5"
+            "@id": "https://nakamura196.github.io/hi/data/07/03/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本近世史料』・唐通事会所日録",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/03/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・唐通事会所日録・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/03/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・唐通事会所日録・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/03/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・唐通事会所日録・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/03/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・唐通事会所日録・4"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/03/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・唐通事会所日録・5"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/03/0006.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・唐通事会所日録・6"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/03/0007.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・唐通事会所日録・7"
+                }
+            ]
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/07/07/0006.json",
-            "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・柳営補任・6"
+            "@id": "https://nakamura196.github.io/hi/data/07/05/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本近世史料』・諸問屋再興調",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/05/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・諸問屋再興調・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/05/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・諸問屋再興調・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/05/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・諸問屋再興調・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/05/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・諸問屋再興調・4"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/05/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・諸問屋再興調・5"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/05/0006.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・諸問屋再興調・6"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/05/0007.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・諸問屋再興調・7"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/05/0008.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・諸問屋再興調・8"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/05/0009.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・諸問屋再興調・9"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/05/0010.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・諸問屋再興調・10"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/05/0011.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・諸問屋再興調・11"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/05/0012.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・諸問屋再興調・12"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/05/0013.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・諸問屋再興調・13"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/05/0014.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・諸問屋再興調・14"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/05/0015.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・諸問屋再興調・15"
+                }
+            ]
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/07/07/0007.json",
-            "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・柳営補任・7"
+            "@id": "https://nakamura196.github.io/hi/data/07/06/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本近世史料』・市中取締類集",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・4"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・5"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0006.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・6"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0007.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・7"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0008.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・8"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0009.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・9"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0010.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・10"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0011.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・11"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0012.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・12"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0013.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・13"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0014.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・14"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0015.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・15"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0016.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・16"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0017.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・17"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0018.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・18"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0019.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・19"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0020.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・20"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0021.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・21"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0022.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・22"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0023.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・23"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0024.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・24"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0025.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・25"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0026.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・26"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0027.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・27"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/06/0028.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・市中取締類集・28"
+                }
+            ]
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/07/07/0008.json",
-            "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・柳営補任・8"
+            "@id": "https://nakamura196.github.io/hi/data/07/13/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/13/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・広橋兼胤公武御用日記・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/13/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・広橋兼胤公武御用日記・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/13/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・広橋兼胤公武御用日記・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/13/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・広橋兼胤公武御用日記・4"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/13/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・広橋兼胤公武御用日記・5"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/13/0006.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・広橋兼胤公武御用日記・6"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/13/0007.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・広橋兼胤公武御用日記・7"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/13/0008.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・広橋兼胤公武御用日記・8"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/13/0009.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・広橋兼胤公武御用日記・9"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/13/0010.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・広橋兼胤公武御用日記・10"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/13/0011.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・広橋兼胤公武御用日記・11"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/13/0012.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・広橋兼胤公武御用日記・12"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/09/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本近世史料』・諸宗末寺帳",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/09/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・諸宗末寺帳・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/09/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・諸宗末寺帳・2"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/12/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本近世史料』・近藤重蔵蝦夷地関係史料",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/12/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・近藤重蔵蝦夷地関係史料・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/12/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・近藤重蔵蝦夷地関係史料・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/12/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・近藤重蔵蝦夷地関係史料・3"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/11/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本近世史料』・編脩地誌備用典籍解題",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/11/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・編脩地誌備用典籍解題・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/11/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・編脩地誌備用典籍解題・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/11/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・編脩地誌備用典籍解題・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/11/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・編脩地誌備用典籍解題・4"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/11/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・編脩地誌備用典籍解題・5"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/11/0006.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・編脩地誌備用典籍解題・6"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/08/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本近世史料』・幕府書物方日記",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/08/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・幕府書物方日記・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/08/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・幕府書物方日記・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/08/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・幕府書物方日記・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/08/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・幕府書物方日記・4"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/08/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・幕府書物方日記・5"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/08/0006.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・幕府書物方日記・6"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/08/0007.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・幕府書物方日記・7"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/08/0008.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・幕府書物方日記・8"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/08/0009.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・幕府書物方日記・9"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/08/0010.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・幕府書物方日記・10"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/08/0011.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・幕府書物方日記・11"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/08/0012.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・幕府書物方日記・12"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/08/0013.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・幕府書物方日記・13"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/08/0014.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・幕府書物方日記・14"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/08/0015.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・幕府書物方日記・15"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/08/0016.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・幕府書物方日記・16"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/08/0017.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・幕府書物方日記・17"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/08/0018.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・幕府書物方日記・18"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/07/07/collection.json",
+            "@type": "sc:Collection",
+            "label": "『大日本近世史料』・柳営補任",
+            "manifests": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/07/0001.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・柳営補任・1"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/07/0002.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・柳営補任・2"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/07/0003.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・柳営補任・3"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/07/0004.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・柳営補任・4"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/07/0005.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・柳営補任・5"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/07/0006.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・柳営補任・6"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/07/0007.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・柳営補任・7"
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://nakamura196.github.io/hi/data/07/07/0008.json",
+                    "@type": "sc:Manifest",
+                    "label": "『大日本近世史料』・柳営補任・8"
+                }
+            ]
         }
-    ]
+    ],
+    "label": "『大日本近世史料』"
 }
