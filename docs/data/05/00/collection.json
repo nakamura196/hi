@@ -1,180 +1,180 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://nakamura196.github.io/hi/data/05/00/collection.json",
+    "@id": "https://hi-iiif.netlify.com/data/05/00/collection.json",
     "@type": "sc:Collection",
     "label": "『大日本古文書』・編年文書",
     "manifests": [
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0001.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0001.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・1",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0001%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0002.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0002.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・2",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0002%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0003.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0003.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・3",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0003%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0004.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0004.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・4",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0004%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0005.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0005.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・5",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0005%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0006.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0006.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・6",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0006%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0007.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0007.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・7",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0007%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0008.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0008.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・8",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0008%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0009.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0009.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・9",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0009%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0010.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0010.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・10",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0010%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0011.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0011.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・11",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0011%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0012.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0012.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・12",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0012%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0013.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0013.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・13",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0013%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0014.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0014.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・14",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0014%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0015.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0015.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・15",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0015%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0016.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0016.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・16",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0016%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0017.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0017.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・17",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0017%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0018.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0018.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・18",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0018%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0019.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0019.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・19",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0019%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0020.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0020.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・20",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0020%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0021.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0021.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・21",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0021%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0022.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0022.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・22",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0022%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0023.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0023.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・23",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0023%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0024.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0024.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・24",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0024%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/00/0025.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/00/0025.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・編年文書・25",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0025%2F0001_r25.jpg"

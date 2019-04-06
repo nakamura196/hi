@@ -1,61 +1,61 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://nakamura196.github.io/hi/data/58/03/collection.json",
+    "@id": "https://hi-iiif.netlify.com/data/58/03/collection.json",
     "@type": "sc:Collection",
     "label": "『日本関係海外史料』・イエズス会日本書翰集",
     "manifests": [
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/58/03/0001.json",
+            "@id": "https://hi-iiif.netlify.com/data/58/03/0001.json",
             "@type": "sc:Manifest",
             "label": "『日本関係海外史料』・イエズス会日本書翰集・1",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F58%2F0501%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/58/03/0002.json",
+            "@id": "https://hi-iiif.netlify.com/data/58/03/0002.json",
             "@type": "sc:Manifest",
             "label": "『日本関係海外史料』・イエズス会日本書翰集・2",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F58%2F0502%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/58/03/0003.json",
+            "@id": "https://hi-iiif.netlify.com/data/58/03/0003.json",
             "@type": "sc:Manifest",
             "label": "『日本関係海外史料』・イエズス会日本書翰集・3",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F58%2F0503%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/58/03/0004.json",
+            "@id": "https://hi-iiif.netlify.com/data/58/03/0004.json",
             "@type": "sc:Manifest",
             "label": "『日本関係海外史料』・イエズス会日本書翰集・4",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F58%2F0601%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/58/03/0005.json",
+            "@id": "https://hi-iiif.netlify.com/data/58/03/0005.json",
             "@type": "sc:Manifest",
             "label": "『日本関係海外史料』・イエズス会日本書翰集・5",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F58%2F0602%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/58/03/0006.json",
+            "@id": "https://hi-iiif.netlify.com/data/58/03/0006.json",
             "@type": "sc:Manifest",
             "label": "『日本関係海外史料』・イエズス会日本書翰集・6",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F58%2F0603%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/58/03/0007.json",
+            "@id": "https://hi-iiif.netlify.com/data/58/03/0007.json",
             "@type": "sc:Manifest",
             "label": "『日本関係海外史料』・イエズス会日本書翰集・7",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F58%2F0604%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/58/03/0008.json",
+            "@id": "https://hi-iiif.netlify.com/data/58/03/0008.json",
             "@type": "sc:Manifest",
             "label": "『日本関係海外史料』・イエズス会日本書翰集・8",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F58%2F0605%2F0001_r25.jpg"

@@ -1,19 +1,19 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://nakamura196.github.io/hi/data/07/09/collection.json",
+    "@id": "https://hi-iiif.netlify.com/data/07/09/collection.json",
     "@type": "sc:Collection",
     "label": "『大日本近世史料』・諸宗末寺帳",
     "manifests": [
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/07/09/0001.json",
+            "@id": "https://hi-iiif.netlify.com/data/07/09/0001.json",
             "@type": "sc:Manifest",
             "label": "『大日本近世史料』・諸宗末寺帳・1",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0901%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/07/09/0002.json",
+            "@id": "https://hi-iiif.netlify.com/data/07/09/0002.json",
             "@type": "sc:Manifest",
             "label": "『大日本近世史料』・諸宗末寺帳・2",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0902%2F0001_r25.jpg"

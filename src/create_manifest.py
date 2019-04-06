@@ -115,7 +115,7 @@ for id1 in result:
 
             obj["label"] = title1+"・"+title2+"・"+no
             obj["description"] = obj3["desc"]
-            obj["@id"] = "https://nakamura196.github.io/hi/"+file.replace("../docs/", "")
+            obj["@id"] = "https://hi-iiif.netlify.com/"+file.replace("../docs/", "")
 
             canvases = obj["sequences"][0]["canvases"]
 

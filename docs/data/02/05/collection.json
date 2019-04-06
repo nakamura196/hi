@@ -1,250 +1,250 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://nakamura196.github.io/hi/data/02/05/collection.json",
+    "@id": "https://hi-iiif.netlify.com/data/02/05/collection.json",
     "@type": "sc:Collection",
     "label": "『大日本史料』・5編",
     "manifests": [
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0001.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0001.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・1",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0501%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0002.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0002.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・2",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0502%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0003.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0003.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・3",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0503%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0004.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0004.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・4",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0504%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0005.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0005.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・5",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0505%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0006.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0006.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・6",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0506%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0007.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0007.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・7",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0507%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0008.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0008.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・8",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0508%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0009.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0009.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・9",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0509%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0010.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0010.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・10",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0510%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0011.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0011.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・11",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0511%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0012.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0012.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・12",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0512%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0013.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0013.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・13",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0513%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0014.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0014.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・14",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0514%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0015.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0015.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・15",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0515%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0016.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0016.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・16",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0516%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0017.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0017.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・17",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0517%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0018.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0018.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・18",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0518%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0019.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0019.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・19",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0519%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0020.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0020.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・20",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0520%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0021.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0021.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・21",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0521%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0022.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0022.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・22",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0522%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0023.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0023.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・23",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0523%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0024.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0024.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・24",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0524%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0025.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0025.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・25",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0525%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0026.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0026.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・26",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0526%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0027.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0027.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・27",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0527%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0028.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0028.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・28",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0528%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0029.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0029.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・29",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0529%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0030.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0030.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・30",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0530%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0031.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0031.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・31",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0531%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0032.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0032.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・32",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0532%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0033.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0033.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・33",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0533%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0034.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0034.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・34",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0534%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/02/05/0035.json",
+            "@id": "https://hi-iiif.netlify.com/data/02/05/0035.json",
             "@type": "sc:Manifest",
             "label": "『大日本史料』・5編・35",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F0535%2F0001_r25.jpg"

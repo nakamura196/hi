@@ -1,19 +1,19 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://nakamura196.github.io/hi/data/05/11/collection.json",
+    "@id": "https://hi-iiif.netlify.com/data/05/11/collection.json",
     "@type": "sc:Collection",
     "label": "『大日本古文書』・小早川家文書",
     "manifests": [
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/11/0001.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/11/0001.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・小早川家文書・1",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1101%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/11/0002.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/11/0002.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・小早川家文書・2",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1102%2F0001.tif/full/pct:10/0/default_r25.jpg"

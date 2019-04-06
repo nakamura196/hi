@@ -1,47 +1,47 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://nakamura196.github.io/hi/data/05/21/collection.json",
+    "@id": "https://hi-iiif.netlify.com/data/05/21/collection.json",
     "@type": "sc:Collection",
     "label": "『大日本古文書』・蜷川家文書",
     "manifests": [
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/21/0001.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/21/0001.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・蜷川家文書・1",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F2101%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/21/0002.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/21/0002.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・蜷川家文書・2",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F2102%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/21/0003.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/21/0003.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・蜷川家文書・3",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F2103%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/21/0004.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/21/0004.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・蜷川家文書・4",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F2104%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/21/0005.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/21/0005.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・蜷川家文書・5",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F2105%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://nakamura196.github.io/hi/data/05/21/0006.json",
+            "@id": "https://hi-iiif.netlify.com/data/05/21/0006.json",
             "@type": "sc:Manifest",
             "label": "『大日本古文書』・蜷川家文書・6",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F2106%2F0001_r25.jpg"
