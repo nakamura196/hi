@@ -8,31 +8,36 @@
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/02/0001.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・肥後藩人畜改帳・1"
+            "label": "『大日本近世史料』・肥後藩人畜改帳・1",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0201%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/02/0002.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・肥後藩人畜改帳・2"
+            "label": "『大日本近世史料』・肥後藩人畜改帳・2",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0202%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/02/0003.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・肥後藩人畜改帳・3"
+            "label": "『大日本近世史料』・肥後藩人畜改帳・3",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0203%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/02/0004.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・肥後藩人畜改帳・4"
+            "label": "『大日本近世史料』・肥後藩人畜改帳・4",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0204%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/02/0005.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・肥後藩人畜改帳・5"
+            "label": "『大日本近世史料』・肥後藩人畜改帳・5",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0205%2F0001_r25.jpg"
         }
     ]
 }

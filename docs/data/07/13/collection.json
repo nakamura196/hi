@@ -8,73 +8,85 @@
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/13/0001.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・広橋兼胤公武御用日記・1"
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・1",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1301%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/13/0002.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・広橋兼胤公武御用日記・2"
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・2",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1302%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/13/0003.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・広橋兼胤公武御用日記・3"
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・3",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1303%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/13/0004.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・広橋兼胤公武御用日記・4"
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・4",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1304%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/13/0005.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・広橋兼胤公武御用日記・5"
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・5",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1305%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/13/0006.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・広橋兼胤公武御用日記・6"
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・6",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1306%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/13/0007.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・広橋兼胤公武御用日記・7"
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・7",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1307%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/13/0008.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・広橋兼胤公武御用日記・8"
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・8",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1308%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/13/0009.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・広橋兼胤公武御用日記・9"
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・9",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1309%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/13/0010.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・広橋兼胤公武御用日記・10"
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・10",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1310%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/13/0011.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・広橋兼胤公武御用日記・11"
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・11",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1311%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/13/0012.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・広橋兼胤公武御用日記・12"
+            "label": "『大日本近世史料』・広橋兼胤公武御用日記・12",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1312%2F0001_r25.jpg"
         }
     ]
 }

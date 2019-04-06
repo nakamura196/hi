@@ -8,37 +8,43 @@
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/58/02/0001.json",
             "@type": "sc:Manifest",
-            "label": "『日本関係海外史料』・イギリス商館長日記・1"
+            "label": "『日本関係海外史料』・イギリス商館長日記・1",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F58%2F0301%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/58/02/0002.json",
             "@type": "sc:Manifest",
-            "label": "『日本関係海外史料』・イギリス商館長日記・2"
+            "label": "『日本関係海外史料』・イギリス商館長日記・2",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F58%2F0302%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/58/02/0003.json",
             "@type": "sc:Manifest",
-            "label": "『日本関係海外史料』・イギリス商館長日記・3"
+            "label": "『日本関係海外史料』・イギリス商館長日記・3",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F58%2F0303%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/58/02/0004.json",
             "@type": "sc:Manifest",
-            "label": "『日本関係海外史料』・イギリス商館長日記・4"
+            "label": "『日本関係海外史料』・イギリス商館長日記・4",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F58%2F0401%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/58/02/0005.json",
             "@type": "sc:Manifest",
-            "label": "『日本関係海外史料』・イギリス商館長日記・5"
+            "label": "『日本関係海外史料』・イギリス商館長日記・5",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F58%2F0402%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/58/02/0006.json",
             "@type": "sc:Manifest",
-            "label": "『日本関係海外史料』・イギリス商館長日記・6"
+            "label": "『日本関係海外史料』・イギリス商館長日記・6",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F58%2F0403%2F0001_r25.jpg"
         }
     ]
 }

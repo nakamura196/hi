@@ -8,85 +8,99 @@
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/05/17/0001.json",
             "@type": "sc:Manifest",
-            "label": "『大日本古文書』・大徳寺文書・1"
+            "label": "『大日本古文書』・大徳寺文書・1",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1701%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/05/17/0002.json",
             "@type": "sc:Manifest",
-            "label": "『大日本古文書』・大徳寺文書・2"
+            "label": "『大日本古文書』・大徳寺文書・2",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1702%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/05/17/0003.json",
             "@type": "sc:Manifest",
-            "label": "『大日本古文書』・大徳寺文書・3"
+            "label": "『大日本古文書』・大徳寺文書・3",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1703%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/05/17/0004.json",
             "@type": "sc:Manifest",
-            "label": "『大日本古文書』・大徳寺文書・4"
+            "label": "『大日本古文書』・大徳寺文書・4",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1704%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/05/17/0005.json",
             "@type": "sc:Manifest",
-            "label": "『大日本古文書』・大徳寺文書・5"
+            "label": "『大日本古文書』・大徳寺文書・5",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1705%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/05/17/0006.json",
             "@type": "sc:Manifest",
-            "label": "『大日本古文書』・大徳寺文書・6"
+            "label": "『大日本古文書』・大徳寺文書・6",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1706%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/05/17/0007.json",
             "@type": "sc:Manifest",
-            "label": "『大日本古文書』・大徳寺文書・7"
+            "label": "『大日本古文書』・大徳寺文書・7",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1707%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/05/17/0008.json",
             "@type": "sc:Manifest",
-            "label": "『大日本古文書』・大徳寺文書・8"
+            "label": "『大日本古文書』・大徳寺文書・8",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1708%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/05/17/0009.json",
             "@type": "sc:Manifest",
-            "label": "『大日本古文書』・大徳寺文書・9"
+            "label": "『大日本古文書』・大徳寺文書・9",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1709%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/05/17/0010.json",
             "@type": "sc:Manifest",
-            "label": "『大日本古文書』・大徳寺文書・10"
+            "label": "『大日本古文書』・大徳寺文書・10",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1710%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/05/17/0011.json",
             "@type": "sc:Manifest",
-            "label": "『大日本古文書』・大徳寺文書・11"
+            "label": "『大日本古文書』・大徳寺文書・11",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1711%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/05/17/0012.json",
             "@type": "sc:Manifest",
-            "label": "『大日本古文書』・大徳寺文書・12"
+            "label": "『大日本古文書』・大徳寺文書・12",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1712%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/05/17/0013.json",
             "@type": "sc:Manifest",
-            "label": "『大日本古文書』・大徳寺文書・13"
+            "label": "『大日本古文書』・大徳寺文書・13",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1713%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/05/17/0014.json",
             "@type": "sc:Manifest",
-            "label": "『大日本古文書』・大徳寺文書・14"
+            "label": "『大日本古文書』・大徳寺文書・14",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1714%2F0001_r25.jpg"
         }
     ]
 }

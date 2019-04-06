@@ -8,97 +8,113 @@
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/11/01/0001.json",
             "@type": "sc:Manifest",
-            "label": "『復古記』・復古記・1"
+            "label": "『復古記』・復古記・1",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F11%2F0001%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/11/01/0002.json",
             "@type": "sc:Manifest",
-            "label": "『復古記』・復古記・2"
+            "label": "『復古記』・復古記・2",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F11%2F0002%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/11/01/0003.json",
             "@type": "sc:Manifest",
-            "label": "『復古記』・復古記・3"
+            "label": "『復古記』・復古記・3",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F11%2F0003%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/11/01/0004.json",
             "@type": "sc:Manifest",
-            "label": "『復古記』・復古記・4"
+            "label": "『復古記』・復古記・4",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F11%2F0004%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/11/01/0005.json",
             "@type": "sc:Manifest",
-            "label": "『復古記』・復古記・5"
+            "label": "『復古記』・復古記・5",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F11%2F0005%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/11/01/0006.json",
             "@type": "sc:Manifest",
-            "label": "『復古記』・復古記・6"
+            "label": "『復古記』・復古記・6",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F11%2F0006%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/11/01/0007.json",
             "@type": "sc:Manifest",
-            "label": "『復古記』・復古記・7"
+            "label": "『復古記』・復古記・7",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F11%2F0007%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/11/01/0008.json",
             "@type": "sc:Manifest",
-            "label": "『復古記』・復古記・8"
+            "label": "『復古記』・復古記・8",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F11%2F0008%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/11/01/0009.json",
             "@type": "sc:Manifest",
-            "label": "『復古記』・復古記・9"
+            "label": "『復古記』・復古記・9",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F11%2F0009%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/11/01/0010.json",
             "@type": "sc:Manifest",
-            "label": "『復古記』・復古記・10"
+            "label": "『復古記』・復古記・10",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F11%2F0010%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/11/01/0011.json",
             "@type": "sc:Manifest",
-            "label": "『復古記』・復古記・11"
+            "label": "『復古記』・復古記・11",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F11%2F0011%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/11/01/0012.json",
             "@type": "sc:Manifest",
-            "label": "『復古記』・復古記・12"
+            "label": "『復古記』・復古記・12",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F11%2F0012%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/11/01/0013.json",
             "@type": "sc:Manifest",
-            "label": "『復古記』・復古記・13"
+            "label": "『復古記』・復古記・13",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F11%2F0013%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/11/01/0014.json",
             "@type": "sc:Manifest",
-            "label": "『復古記』・復古記・14"
+            "label": "『復古記』・復古記・14",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F11%2F0014%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/11/01/0015.json",
             "@type": "sc:Manifest",
-            "label": "『復古記』・復古記・15"
+            "label": "『復古記』・復古記・15",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F11%2F0015%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/11/01/0016.json",
             "@type": "sc:Manifest",
-            "label": "『復古記』・復古記・16"
+            "label": "『復古記』・復古記・16",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F11%2F0016%2F0001_r25.jpg"
         }
     ]
 }

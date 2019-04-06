@@ -8,169 +8,197 @@
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0001.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・1"
+            "label": "『大日本近世史料』・市中取締類集・1",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0601%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0002.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・2"
+            "label": "『大日本近世史料』・市中取締類集・2",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0602%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0003.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・3"
+            "label": "『大日本近世史料』・市中取締類集・3",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0603%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0004.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・4"
+            "label": "『大日本近世史料』・市中取締類集・4",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0604%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0005.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・5"
+            "label": "『大日本近世史料』・市中取締類集・5",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0605%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0006.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・6"
+            "label": "『大日本近世史料』・市中取締類集・6",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0606%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0007.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・7"
+            "label": "『大日本近世史料』・市中取締類集・7",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0607%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0008.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・8"
+            "label": "『大日本近世史料』・市中取締類集・8",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0608%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0009.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・9"
+            "label": "『大日本近世史料』・市中取締類集・9",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0609%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0010.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・10"
+            "label": "『大日本近世史料』・市中取締類集・10",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0610%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0011.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・11"
+            "label": "『大日本近世史料』・市中取締類集・11",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0611%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0012.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・12"
+            "label": "『大日本近世史料』・市中取締類集・12",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0612%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0013.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・13"
+            "label": "『大日本近世史料』・市中取締類集・13",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0613%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0014.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・14"
+            "label": "『大日本近世史料』・市中取締類集・14",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0614%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0015.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・15"
+            "label": "『大日本近世史料』・市中取締類集・15",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0615%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0016.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・16"
+            "label": "『大日本近世史料』・市中取締類集・16",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0616%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0017.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・17"
+            "label": "『大日本近世史料』・市中取締類集・17",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0617%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0018.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・18"
+            "label": "『大日本近世史料』・市中取締類集・18",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0618%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0019.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・19"
+            "label": "『大日本近世史料』・市中取締類集・19",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0619%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0020.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・20"
+            "label": "『大日本近世史料』・市中取締類集・20",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0620%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0021.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・21"
+            "label": "『大日本近世史料』・市中取締類集・21",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0621%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0022.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・22"
+            "label": "『大日本近世史料』・市中取締類集・22",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0622%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0023.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・23"
+            "label": "『大日本近世史料』・市中取締類集・23",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0623%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0024.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・24"
+            "label": "『大日本近世史料』・市中取締類集・24",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0624%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0025.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・25"
+            "label": "『大日本近世史料』・市中取締類集・25",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0625%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0026.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・26"
+            "label": "『大日本近世史料』・市中取締類集・26",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0626%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0027.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・27"
+            "label": "『大日本近世史料』・市中取締類集・27",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0627%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/06/0028.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・市中取締類集・28"
+            "label": "『大日本近世史料』・市中取締類集・28",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0628%2F0001_r25.jpg"
         }
     ]
 }

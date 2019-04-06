@@ -8,169 +8,197 @@
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0001.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・1"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・1",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0101%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0002.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・2"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・2",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0102%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0003.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・3"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・3",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0103%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0004.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・4"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・4",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0104%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0005.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・5"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・5",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0105%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0006.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・6"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・6",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0106%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0007.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・7"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・7",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0107%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0008.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・8"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・8",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0108%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0009.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・9"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・9",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0109%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0010.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・10"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・10",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0110%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0011.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・11"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・11",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0111%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0012.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・12"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・12",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0112%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0013.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・13"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・13",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0113%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0014.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・14"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・14",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0114%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0015.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・15"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・15",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0115%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0016.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・16"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・16",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0116%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0017.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・17"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・17",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0117%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0018.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・18"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・18",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0118%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0019.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・19"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・19",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0119%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0020.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・20"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・20",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0120%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0021.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・21"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・21",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0121%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0022.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・22"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・22",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0122%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0023.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・23"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・23",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0123%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0024.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・24"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・24",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0124%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0025.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・25"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・25",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0125%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0026.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・26"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・26",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0126%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0027.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・27"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・27",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0127%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/08/01/0028.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 類纂之部』・井伊家史料・28"
+            "label": "『大日本維新史料 類纂之部』・井伊家史料・28",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F08%2F0128%2F0001_r25.jpg"
         }
     ]
 }

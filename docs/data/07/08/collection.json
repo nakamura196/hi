@@ -8,109 +8,127 @@
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/08/0001.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・幕府書物方日記・1"
+            "label": "『大日本近世史料』・幕府書物方日記・1",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0801%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/08/0002.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・幕府書物方日記・2"
+            "label": "『大日本近世史料』・幕府書物方日記・2",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0802%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/08/0003.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・幕府書物方日記・3"
+            "label": "『大日本近世史料』・幕府書物方日記・3",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0803%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/08/0004.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・幕府書物方日記・4"
+            "label": "『大日本近世史料』・幕府書物方日記・4",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0804%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/08/0005.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・幕府書物方日記・5"
+            "label": "『大日本近世史料』・幕府書物方日記・5",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0805%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/08/0006.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・幕府書物方日記・6"
+            "label": "『大日本近世史料』・幕府書物方日記・6",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0806%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/08/0007.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・幕府書物方日記・7"
+            "label": "『大日本近世史料』・幕府書物方日記・7",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0807%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/08/0008.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・幕府書物方日記・8"
+            "label": "『大日本近世史料』・幕府書物方日記・8",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0808%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/08/0009.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・幕府書物方日記・9"
+            "label": "『大日本近世史料』・幕府書物方日記・9",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0809%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/08/0010.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・幕府書物方日記・10"
+            "label": "『大日本近世史料』・幕府書物方日記・10",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0810%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/08/0011.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・幕府書物方日記・11"
+            "label": "『大日本近世史料』・幕府書物方日記・11",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0811%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/08/0012.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・幕府書物方日記・12"
+            "label": "『大日本近世史料』・幕府書物方日記・12",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0812%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/08/0013.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・幕府書物方日記・13"
+            "label": "『大日本近世史料』・幕府書物方日記・13",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0813%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/08/0014.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・幕府書物方日記・14"
+            "label": "『大日本近世史料』・幕府書物方日記・14",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0814%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/08/0015.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・幕府書物方日記・15"
+            "label": "『大日本近世史料』・幕府書物方日記・15",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0815%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/08/0016.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・幕府書物方日記・16"
+            "label": "『大日本近世史料』・幕府書物方日記・16",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0816%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/08/0017.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・幕府書物方日記・17"
+            "label": "『大日本近世史料』・幕府書物方日記・17",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0817%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/07/08/0018.json",
             "@type": "sc:Manifest",
-            "label": "『大日本近世史料』・幕府書物方日記・18"
+            "label": "『大日本近世史料』・幕府書物方日記・18",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0818%2F0001_r25.jpg"
         }
     ]
 }

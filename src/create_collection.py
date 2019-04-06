@@ -105,6 +105,7 @@ for id1 in result:
             m["@id"] = manifest
             m["@type"] = "sc:Manifest"
             m["label"] = title1 + "・" + title2 + "・" + no
+            m["thumbnail"] = obj3["images"][0].replace(".jpg", "_r25.jpg")
             manifests.append(m)
 
         f3 = open("../docs/data/" + id1 + "/" + id2 + "/collection.json", 'w')

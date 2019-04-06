@@ -8,7 +8,8 @@
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/05/14/0001.json",
             "@type": "sc:Manifest",
-            "label": "『大日本古文書』・熊谷家・三浦家・平賀家文書・1"
+            "label": "『大日本古文書』・熊谷家・三浦家・平賀家文書・1",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1401%2F0001_r25.jpg"
         }
     ]
 }

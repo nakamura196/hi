@@ -8,43 +8,50 @@
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/04/03/0001.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 編年之部』・3編・1"
+            "label": "『大日本維新史料 編年之部』・3編・1",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F04%2F0301%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/04/03/0002.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 編年之部』・3編・2"
+            "label": "『大日本維新史料 編年之部』・3編・2",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F04%2F0302%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/04/03/0003.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 編年之部』・3編・3"
+            "label": "『大日本維新史料 編年之部』・3編・3",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F04%2F0303%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/04/03/0004.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 編年之部』・3編・4"
+            "label": "『大日本維新史料 編年之部』・3編・4",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F04%2F0304%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/04/03/0005.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 編年之部』・3編・5"
+            "label": "『大日本維新史料 編年之部』・3編・5",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F04%2F0305%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/04/03/0006.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 編年之部』・3編・6"
+            "label": "『大日本維新史料 編年之部』・3編・6",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F04%2F0306%2F0001_r25.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/hi/data/04/03/0007.json",
             "@type": "sc:Manifest",
-            "label": "『大日本維新史料 編年之部』・3編・7"
+            "label": "『大日本維新史料 編年之部』・3編・7",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F04%2F0307%2F0001_r25.jpg"
         }
     ]
 }
