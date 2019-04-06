@@ -1,0 +1,174 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/05/17/0014.json",
+    "@type": "sc:Manifest",
+    "attribution": "Historiographical Institute The University of Tokyo 東京大学史料編纂所",
+    "description": "大徳寺文書之十四",
+    "label": "『大日本古文書』・大徳寺文書・14",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "logo": "http://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [],
+    "sequences": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d230f1f8-5929-4138-bb28-1108d77fd32a/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/hi/data/05/17/0014.json/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 3200,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/data/05/17/0014.json/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/data/05/17/0014.json/canvas/p1",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1714%2F0001.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3200,
+                                "width": 2112
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1714%2F0001_r25.jpg"
+                    },
+                    "width": 2112
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/data/05/17/0014.json/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 3200,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/data/05/17/0014.json/annotation/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/data/05/17/0014.json/canvas/p2",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1714%2F0002.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3200,
+                                "width": 2112
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1714%2F0002_r25.jpg"
+                    },
+                    "width": 2112
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/data/05/17/0014.json/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 3200,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/data/05/17/0014.json/annotation/p3-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/data/05/17/0014.json/canvas/p3",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1714%2F0003.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3200,
+                                "width": 2112
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1714%2F0003_r25.jpg"
+                    },
+                    "width": 2112
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/data/05/17/0014.json/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 3200,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/data/05/17/0014.json/annotation/p4-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/data/05/17/0014.json/canvas/p4",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1714%2F0004.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3200,
+                                "width": 2112
+                            }
+                        }
+                    ],
+                    "label": "[4]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1714%2F0004_r25.jpg"
+                    },
+                    "width": 2112
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/data/05/17/0014.json/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 3200,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/data/05/17/0014.json/annotation/p5-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/data/05/17/0014.json/canvas/p5",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1714%2F0005.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3200,
+                                "width": 2112
+                            }
+                        }
+                    ],
+                    "label": "[5]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1714%2F0005_r25.jpg"
+                    },
+                    "width": 2112
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/data/05/17/0014.json/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "height": 3200,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/data/05/17/0014.json/annotation/p6-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/data/05/17/0014.json/canvas/p6",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1714%2F0006.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3200,
+                                "width": 2112
+                            }
+                        }
+                    ],
+                    "label": "[6]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1714%2F0006_r25.jpg"
+                    },
+                    "width": 2112
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1714%2F0001_r25.jpg",
+    "viewingDirection": "right-to-left",
+    "within": "http://www.hi.u-tokyo.ac.jp/publication/dip/index.html"
+}

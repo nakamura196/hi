@@ -108,6 +108,7 @@ for id1 in result:
             m = temp.copy()
             m["@id"] = manifest
             m["@type"] = "sc:Manifest"
+            m["label"] = title1+"・"+title2+"・"+no
             manifests.append(m)
 
             '''

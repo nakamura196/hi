@@ -81,6 +81,9 @@ for id1 in result:
 
             file = dir1+"/" + str(no).zfill(4) + ".json"
 
+            if os.path.exists(file):
+                continue
+
             # obj = json_dict.copy()
 
             obj = {
