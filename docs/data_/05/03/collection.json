@@ -1,0 +1,78 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/05/03/collection.json",
+    "@type": "sc:Collection",
+    "label": "『大日本古文書』・伊達家文書",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/03/0001.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・伊達家文書・1",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0301%2F0001_r25.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/03/0002.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・伊達家文書・2",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0302%2F0001_r25.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/03/0003.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・伊達家文書・3",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0303%2F0001_r25.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/03/0004.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・伊達家文書・4",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0304%2F0001_r25.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/03/0005.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・伊達家文書・5",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0305%2F0001_r25.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/03/0006.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・伊達家文書・6",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0306%2F0001_r25.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/03/0007.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・伊達家文書・7",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0307%2F0001_r25.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/03/0008.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・伊達家文書・8",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0308%2F0001_r25.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/03/0009.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・伊達家文書・9",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0309%2F0001_r25.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/03/0010.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・伊達家文書・10",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0310%2F0001_r25.jpg"
+        }
+    ]
+}

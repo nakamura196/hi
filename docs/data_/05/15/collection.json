@@ -1,0 +1,15 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/05/15/collection.json",
+    "@type": "sc:Collection",
+    "label": "『大日本古文書』・山内首藤家文書",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/15/0001.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・山内首藤家文書・1",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F1501%2F0001_r25.jpg"
+        }
+    ]
+}

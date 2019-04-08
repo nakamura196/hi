@@ -1,0 +1,43 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/05/20/collection.json",
+    "@type": "sc:Collection",
+    "label": "『大日本古文書』・東福寺文書",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/20/0001.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・東福寺文書・1",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F2001%2F0001_r25.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/20/0002.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・東福寺文書・2",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F2002%2F0001_r25.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/20/0003.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・東福寺文書・3",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F2003%2F0001_r25.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/20/0004.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・東福寺文書・4",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F2004%2F0001_r25.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/20/0005.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・東福寺文書・5",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F2005%2F0001_r25.jpg"
+        }
+    ]
+}

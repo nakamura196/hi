@@ -1,0 +1,29 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/data/05/09/collection.json",
+    "@type": "sc:Collection",
+    "label": "『大日本古文書』・吉川家文書",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/09/0001.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・吉川家文書・1",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0901%2F0001_r25.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/09/0002.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・吉川家文書・2",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0902%2F0001_r25.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/hi/data/05/09/0003.json",
+            "@type": "sc:Manifest",
+            "label": "『大日本古文書』・吉川家文書・3",
+            "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F05%2F0903%2F0001_r25.jpg"
+        }
+    ]
+}
