@@ -4668,6 +4668,12 @@
             "viewingHint": "non-paged"
         }
     ],
+    "service": {
+        "@context": "http://iiif.io/api/search/0/context.json",
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/78da0dcadb0d80200c00c08d68545a5ab7298f0851d428248e8ff77db9b5fb5d014eddb5f6472721b39596bb37e5825ce0ab077874c2424c9adc9c7889222126b1a488c1329a3f0d89101730",
+        "label": "Search within this manifest",
+        "profile": "http://iiif.io/api/search/0/search"
+    },
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F58%2F0213%2F0001_r25.jpg",
     "viewingDirection": "right-to-left",
     "within": "http://www.hi.u-tokyo.ac.jp/publication/dip/index.html"
