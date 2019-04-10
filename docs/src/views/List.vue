@@ -315,6 +315,13 @@ export default {
         backgroundImage: `url(${this.header})`
       };
     }
+  },
+  head: {
+    title: {
+      inner: '一覧',
+      separator: '|',
+      complement: '史料集版面ギャラリー（IIIFコレクション版）'
+    }
   }
 };
 </script>

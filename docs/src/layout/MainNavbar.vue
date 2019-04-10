@@ -31,6 +31,7 @@
               <md-list-item
                 href="#/"
               >
+              <i class="material-icons">home</i>
                 <p>HOME</p>
               </md-list-item>
 
@@ -38,11 +39,9 @@
               <md-list-item
                 href="#/list"
               >
+              <i class="material-icons">list</i>
                 <p>テキスト検索可能な史料一覧</p>
               </md-list-item>
-
-              
-
               
             </md-list>
           </div>

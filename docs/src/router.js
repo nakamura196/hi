@@ -1,4 +1,5 @@
 import Vue from "vue";
+import VueHead from 'vue-head'
 import Router from "vue-router";
 import Index from "./views/Index.vue";
 import List from "./views/List.vue";
@@ -6,6 +7,7 @@ import MainNavbar from "./layout/MainNavbar.vue";
 import MainFooter from "./layout/MainFooter.vue";
 
 Vue.use(Router);
+Vue.use(VueHead);
 
 export default new Router({
   routes: [

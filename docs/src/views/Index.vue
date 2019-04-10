@@ -32,6 +32,7 @@
             <div class="md-layout">
               <div class="md-layout-item md-medium-size-33 md-small-size-100">
                 <div class="info">
+                  <div class="icon icon-success"><i class="md-icon md-icon-font md-theme-default">label_important</i></div>
                   <h4 class="info-title">IIIF</h4>
                   <p>
                     <a href="https://iiif.io/api/presentation/2.1/#collection">IIIF Collection</a>を使って史料群の階層を表現しています。<a href="https://iiif.io/api/image/2.1/">IIIF Image API</a>は利用していないため、一部のViewerでは閲覧できない点にご注意ください。
@@ -40,6 +41,7 @@
               </div>
               <div class="md-layout-item md-medium-size-33 md-small-size-100">
                 <div class="info">
+                  <div class="icon icon-success"><i class="md-icon md-icon-font md-theme-default">label_important</i></div>
                   <h4 class="info-title">OCR &amp; TEI</h4>
                   <p>
                     一部史料については、<a href="https://cloud.google.com/vision/">Google Cloud Vision API</a>のOCR結果を用いたテキスト検索機能を提供します。テキスト情報は<a href="https://tei-c.org/">TEI</a>で保持し、検索機能には<a href="https://iiif.io/api/search/1.0/">IIIF Search API</a>を用いています。検索可能な史料一覧は<a href="#/list">こちら</a>からご確認ください。
@@ -48,6 +50,7 @@
               </div>
               <div class="md-layout-item md-medium-size-33 md-small-size-100">
                 <div class="info">
+                  <div class="icon icon-success"><i class="md-icon md-icon-font md-theme-default">label_important</i></div>
                   <h4 class="info-title">Open Data</h4>
                   <p>
                     <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA</a>ライセンスで公開されているオープンデータを利用しています。本サイトで公開するデータについても、同じ条件でご利用ください。
@@ -89,7 +92,7 @@
 
                     <a type="button" class="md-button md-success md-theme-default" href="https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://nakamura196.github.io/hi/data/collection.json">
                       <div class="md-ripple">
-                        <div class="md-button-content">閲覧する</div>
+                        <div class="md-button-content">View</div>
                       </div>
                     </a>
                   </md-card>
@@ -120,7 +123,7 @@
 
                     <a type="button" class="md-button md-success md-theme-default" href="http://da.dl.itc.u-tokyo.ac.jp/uv/?manifest=https://nakamura196.github.io/hi/data/collection.json">
                       <div class="md-ripple">
-                        <div class="md-button-content">閲覧する</div>
+                        <div class="md-button-content">View</div>
                       </div>
                     </a>
                   </md-card>
@@ -150,7 +153,7 @@
 
                     <a type="button" class="md-button md-success md-theme-default" href="https://nakamura196.github.io/portal_pro/common/javala/?collection=https://nakamura196.github.io/hi/data/collection.json">
                       <div class="md-ripple">
-                        <div class="md-button-content">閲覧する</div>
+                        <div class="md-button-content">View</div>
                       </div>
                     </a>
                   </md-card>
@@ -198,6 +201,13 @@ export default {
       return {
         backgroundImage: `url(${this.header})`
       }
+    }
+  },
+  head: {
+    title: {
+      inner: 'HOME',
+      separator: '|',
+      complement: '史料集版面ギャラリー（IIIFコレクション版）'
     }
   }
 }
