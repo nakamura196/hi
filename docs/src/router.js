@@ -1,6 +1,7 @@
 import Vue from "vue";
 import Router from "vue-router";
 import Index from "./views/Index.vue";
+import List from "./views/List.vue";
 import MainNavbar from "./layout/MainNavbar.vue";
 import MainFooter from "./layout/MainFooter.vue";
 
@@ -12,6 +13,15 @@ export default new Router({
       path: "/",
       name: "index",
       components: { default: Index, header: MainNavbar, footer: MainFooter },
+      props: {
+        header: { colorOnScroll: 400 },
+        footer: { backgroundColor: "black" }
+      }
+    },
+    {
+      path: "/list",
+      name: "list",
+      components: { default: List, header: MainNavbar, footer: MainFooter },
       props: {
         header: { colorOnScroll: 400 },
         footer: { backgroundColor: "black" }

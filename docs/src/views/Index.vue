@@ -8,7 +8,7 @@
           >
             <h1 class="title">史料集版面ギャラリー</h1>
             <h4>
-              東京大学史料編纂所編を改変
+              IIIFコレクション版（東京大学史料編纂所編を改変）
             </h4>
           </div>
         </div>
@@ -24,7 +24,7 @@
             >
               <h2 class="title text-center" id="about">このサイトについて</h2>
               <h5 class="description">
-                本サイトは、<a href="https://www.hi.u-tokyo.ac.jp/publication/dip/index.html">史料集版面ギャラリー</a>（東京大学史料編纂所編）を改変し、IIIFコレクションを用いて史料を閲覧可能なサイトです。
+                <a href="https://www.hi.u-tokyo.ac.jp/publication/dip/index.html">史料集版面ギャラリー</a>（東京大学史料編纂所編）を改変し、IIIFコレクションを用いて史料を閲覧可能なサイトです。
               </h5>
             </div>
           </div>
@@ -42,7 +42,7 @@
                 <div class="info">
                   <h4 class="info-title">OCR &amp; TEI</h4>
                   <p>
-                    <a href="https://cloud.google.com/vision/">Google Could Vision API</a>によるOCRテキストを用いた全文検索機能を提供します。テキスト情報は<a href="https://tei-c.org/">TEI</a>で保持し、検索機能には<a href="https://iiif.io/api/search/1.0/">IIIF Search API</a>を用いています。
+                    一部史料については、<a href="https://cloud.google.com/vision/">Google Cloud Vision API</a>のOCR結果を用いたテキスト検索機能を提供します。テキスト情報は<a href="https://tei-c.org/">TEI</a>で保持し、検索機能には<a href="https://iiif.io/api/search/1.0/">IIIF Search API</a>を用いています。検索可能な史料一覧は<a href="#/list">こちら</a>からご確認ください。
                   </p>
                 </div>
               </div>
@@ -50,7 +50,7 @@
                 <div class="info">
                   <h4 class="info-title">Open Data</h4>
                   <p>
-                    <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA</a>ライセンスで公開されているオープンデータを利用しています。本サイトで公開するデータについても、<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA</a>ライセンスで利用可能です。
+                    <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA</a>ライセンスで公開されているオープンデータを利用しています。本サイトで公開するデータについても、同じ条件でご利用ください。
                   </p>
                 </div>
               </div>

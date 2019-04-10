@@ -8,7 +8,45 @@
   >
     <div class="md-toolbar-row md-collapse-lateral">
       <div class="md-toolbar-section-start">
-        <h3 class="md-title">史料集版面ギャラリー（IIIF Collection版）</h3>
+        <h3 class="md-title">史料集版面ギャラリー（IIIFコレクション版）</h3>
+      </div>
+      <div class="md-toolbar-section-end">
+        <md-button
+          class="md-just-icon md-simple md-toolbar-toggle"
+          :class="{ toggled: toggledClass }"
+          @click="toggleNavbarMobile()"
+        >
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </md-button>
+
+        <div class="md-collapse">
+          <div class="md-collapse-wrapper">
+            <mobile-menu nav-mobile-section-start="false">
+              <!-- Here you can add your items from the section-start of your toolbar -->
+            </mobile-menu>
+            <md-list>
+
+              <md-list-item
+                href="#/"
+              >
+                <p>HOME</p>
+              </md-list-item>
+
+
+              <md-list-item
+                href="#/list"
+              >
+                <p>テキスト検索可能な史料一覧</p>
+              </md-list-item>
+
+              
+
+              
+            </md-list>
+          </div>
+        </div>
       </div>
     </div>
   </md-toolbar>
