@@ -92,18 +92,13 @@ for id1 in result:
 
             obj = {
                 "@context": "http://iiif.io/api/presentation/2/context.json",
-                "@id": "",
                 "@type": "sc:Manifest",
-                "label": "",
-                "thumbnail": "",
                 "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
                 "attribution": "Historiographical Institute The University of Tokyo 東京大学史料編纂所",
                 "logo": "http://www.hi.u-tokyo.ac.jp/favicon.ico",
                 "within": "http://www.hi.u-tokyo.ac.jp/publication/dip/index.html",
-                "metadata": [],
                 "sequences": [
                     {
-                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d230f1f8-5929-4138-bb28-1108d77fd32a/sequence/normal",
                         "@type": "sc:Sequence",
                         "label": "Current Page Order",
                         "viewingHint": "non-paged",
@@ -117,6 +112,8 @@ for id1 in result:
             obj["description"] = obj3["desc"]
             obj["@id"] = "https://nakamura196.github.io/hi/"+file.replace("../docs/", "")
 
+            obj["sequences"][0]["@id"] = obj["@id"]+"/sequence/normal"
+            
             canvases = obj["sequences"][0]["canvases"]
 
             width = -1
@@ -126,27 +123,16 @@ for id1 in result:
             for i in range(len(obj3["images"])):
                 img_url = obj3["images"][i]
                 tmp = {
-                  "@id": "https://uta.u-tokyo.ac.jp/uta/iiif/12358/canvas/p1",
                   "@type": "sc:Canvas",
-                  "label": "[1]",
-                  "thumbnail": {
-                    "@id": "https://uta.u-tokyo.ac.jp/uta/files/medium/b0860287cd6c5ccdebdd7b0ba0eb4367db17cf89.jpg"
-                  },
-                  "width": 1631,
-                  "height": 1224,
+                  "thumbnail": {},
                   "images": [
                     {
-                      "@id": "https://uta.u-tokyo.ac.jp/uta/iiif/12358/annotation/p0001-image",
                       "@type": "oa:Annotation",
                       "motivation": "sc:painting",
                       "resource": {
-                        "@id": "https://uta.u-tokyo.ac.jp/uta/files/original/b0860287cd6c5ccdebdd7b0ba0eb4367db17cf89.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "width": 1631,
-                        "height": 1224
-                      },
-                      "on": "https://uta.u-tokyo.ac.jp/uta/iiif/12358/canvas/p1"
+                      }
                     }
                   ]
                 }

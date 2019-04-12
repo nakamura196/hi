@@ -42,6 +42,14 @@
               <i class="material-icons">list</i>
                 <p>テキスト検索可能な史料一覧</p>
               </md-list-item>
+
+              <md-list-item
+                href="https://view.officeapps.live.com/op/view.aspx?src=https://nakamura196.github.io/hi/data/metadata.xlsx" target="_blank"
+              >
+              <i class="material-icons">grid_on</i>
+                <p>史料一覧</p>
+              </md-list-item>
+
               
             </md-list>
           </div>
