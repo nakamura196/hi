@@ -10,7 +10,7 @@
     "metadata": [],
     "sequences": [
         {
-            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d230f1f8-5929-4138-bb28-1108d77fd32a/sequence/normal",
+            "@id": "https://nakamura196.github.io/hi/data/07/06/0022.json/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
