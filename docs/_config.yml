@@ -1,0 +1,24 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: 史料集版面ギャラリー（IIIFコレクション版）
+# email: 
+description: >- # this means to ignore newlines until "baseurl:"
+  史料集版面ギャラリー（東京大学史料編纂所編）を改変し、IIIFコレクションを用いて史料を閲覧可能なサイトです。
+url: "https://nakamura196.github.io/hi/" # the base hostname & protocol for your site, e.g. https://kunshujo.dl.itc.u-tokyo.ac.jp
+# github_username:  nakamura196
+image: https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F04%2F0101%2F0001_r25.jpg
+footer: Satoru Nakamura
+icon: https://nakamura196.github.io/hi/html/favicon.png
